@@ -1,16 +1,20 @@
 import requests
 import json
+from datetime import datetime
 
-url = "https://www.nordpoolgroup.com/api/marketdata/page/10?currency=EUR"
-response = requests.get(url)
+# Kuupäev täna
+today = datetime.utcnow().strftime("%Y-%m-%d")
+start = f"{today}T00:00:00Z"
+end   = f"{today}T23:59:59Z"
 
-# Kontrollime, mis me saime
-print("HTTP status:", response.status_code)
-print("Content starts with:", response.text[:100])  # ainult esimesed 100 märki
+url = f"https://dashboard.elering.ee/api/nps/price?start={start}&end={end}"
 
-# Proovime alles siis JSON-i
-try:
-    data = response.json()
-except Exception as e:
-    print("JSON parse error:", e)
-    exit(1)
+resp = requests.get(url, timeout=10)
+print("HTTP status:", resp.status_code)
+print("Vastus algusest:", resp.text[:100])
+
+data = resp.json()
+
+# Salvesta GitHubi kasutamiseks JSON faili
+with open("data/today_prices.json", "w") as f:
+    json.dump(data, f, indent=2)
