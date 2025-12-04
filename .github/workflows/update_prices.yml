@@ -3,31 +3,26 @@ name: Update Nord Pool Prices
 on:
   schedule:
     - cron: '0 16 * * *' # UTC 16:00 = Eesti 18:00
-  workflow_dispatch: # käsitsi käivitamine võimalik
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repo
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # Install Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Install dependencies
       - name: Install dependencies
         run: pip install requests
 
-      # Run Python script to download JSON
       - name: Download Nord Pool data
         run: python download_nordpool.py
 
-      # Commit and push updated JSON using PAT
       - name: Commit and push
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
