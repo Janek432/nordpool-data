@@ -27,7 +27,7 @@ jobs:
       - name: Download Nord Pool data
         run: python download_nordpool.py
 
-      # Commit and push updated JSON
+      # Commit and push updated JSON using PAT
       - name: Commit and push
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -36,4 +36,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data/today_prices.json
           git commit -m "Update today's Nord Pool prices" || echo "No changes to commit"
-          git push https://$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
+          git push https://x-access-token:$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
