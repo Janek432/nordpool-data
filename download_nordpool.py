@@ -3,16 +3,14 @@ import json
 
 url = "https://www.nordpoolgroup.com/api/marketdata/page/10?currency=EUR"
 response = requests.get(url)
-data = response.json()
 
-# Otsime Eesti hinnad
-ee_prices = {}
-for row in data["data"]["Rows"]:
-    if row["Name"] == "EE":
-        for i, col in enumerate(row["Columns"]):
-            val = col["Value"].replace(",", ".")
-            ee_prices[i] = float(val)
+# Kontrollime, mis me saime
+print("HTTP status:", response.status_code)
+print("Content starts with:", response.text[:100])  # ainult esimesed 100 märki
 
-# Salvestame faili
-with open("data/today_prices.json", "w") as f:
-    json.dump(ee_prices, f, indent=2)
+# Proovime alles siis JSON-i
+try:
+    data = response.json()
+except Exception as e:
+    print("JSON parse error:", e)
+    exit(1)
