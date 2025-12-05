@@ -1,33 +1,28 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 
-# Kuupäev täna
-today = datetime.utcnow().strftime("%Y-%m-%d")
+today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 start = f"{today}T00:00:00Z"
 end   = f"{today}T23:59:59Z"
 
 url = f"https://dashboard.elering.ee/api/nps/price?start={start}&end={end}"
 
-resp = requests.get(url, timeout=10)
-print("HTTP status:", resp.status_code)
-print("Vastus algusest:", resp.text[:200])
+print("Requesting:", url)
 
-raw = resp.json()
+with requests.get(url, stream=True, timeout=20) as r:
+    r.raise_for_status()
 
-# --- VÕTA OTSE EE ANDMED ---
-ee_only = raw["data"]["ee"]
+    raw = ""
+    for chunk in r.iter_content(chunk_size=16384):
+        if chunk:
+            raw += chunk.decode("utf-8")
 
-# --- PANE NEED ESP8266 FORMAATI ---
-final = {
-    "success": True,
-    "data": {
-        "ee": ee_only
-    }
-}
+print("Downloaded length:", len(raw))
 
-# Salvesta GitHubi
+data = json.loads(raw)
+
 with open("data/today_prices.json", "w") as f:
-    json.dump(final, f, indent=2)
+    json.dump(data, f, indent=2)
 
-print("Salvestatud EE hinnad:", len(ee_only), "kirjet")
+print("Saved today_prices.json")
