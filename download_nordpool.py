@@ -8,21 +8,25 @@ end   = f"{today}T23:59:59Z"
 
 url = f"https://dashboard.elering.ee/api/nps/price?start={start}&end={end}"
 
-print("Requesting:", url)
+resp = requests.get(url, timeout=10)
+data = resp.json()
 
-with requests.get(url, stream=True, timeout=20) as r:
-    r.raise_for_status()
+ee_list = []
 
-    raw = ""
-    for chunk in r.iter_content(chunk_size=16384):
-        if chunk:
-            raw += chunk.decode("utf-8")
+# convert €/MWh → s/kWh
+for entry in data["data"]["ee"]:
+    price_eur_mwh = entry["price"]
+    price_s_kwh = price_eur_mwh / 10.0  # because 100 €/MWh = 10 s/kWh
 
-print("Downloaded length:", len(raw))
-
-data = json.loads(raw)
+    ee_list.append({
+        "timestamp": entry["timestamp"],
+        "price": round(price_s_kwh, 4)
+    })
 
 with open("data/today_prices.json", "w") as f:
     json.dump(data, f, indent=2)
 
-print("Saved today_prices.json")
+with open("data/ee_today.json", "w") as f:
+    json.dump(ee_list, f, indent=2)
+
+print("Converted and saved prices:", len(ee_list))
