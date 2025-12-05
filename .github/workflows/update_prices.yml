@@ -39,15 +39,16 @@ jobs:
           print("Created ee_today.json with", len(ee_only), "entries")
           EOF
 
-
       - name: Commit and push
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/today_prices.json
-          git commit -m "Update today's Nord Pool prices" || echo "No changes to commit"
-          git push https://x-access-token:$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
+
+          # ADD BOTH files BEFORE COMMIT
           git add data/today_prices.json data/ee_today.json
 
+          git commit -m "Update today's Nord Pool prices" || echo "No changes to commit"
+
+          git push https://x-access-token:$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
