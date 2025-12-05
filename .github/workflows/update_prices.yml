@@ -1,32 +1,52 @@
-import requests
-import json
-from datetime import datetime, timezone
+name: Update Nord Pool Prices
 
-# --- create dates ---
-today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-start = f"{today}T00:00:00Z"
-end   = f"{today}T23:59:59Z"
+on:
+  schedule:
+    - cron: "1 0 * * *"   # UTC 00:01 = Eesti 02:01 talvel
+  workflow_dispatch:
 
-url = f"https://dashboard.elering.ee/api/nps/price?start={start}&end={end}"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-print("Requesting:", url)
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-# --- STREAM DOWNLOAD (fixes hanging) ---
-with requests.get(url, stream=True, timeout=20) as r:
-    r.raise_for_status()
+      - name: Install dependencies
+        run: pip install requests
 
-    raw = ""
-    for chunk in r.iter_content(chunk_size=16384):
-        if chunk:
-            raw += chunk.decode('utf-8')
+      - name: Download Nord Pool data
+        run: python download_nordpool.py
 
-print("Download OK, length:", len(raw))
+      - name: Create ee_today.json
+        run: |
+          python3 << 'EOF'
+          import json
 
-# Parse JSON safely
-data = json.loads(raw)
+          with open("data/today_prices.json", "r") as f:
+              data = json.load(f)
 
-# Save full JSON
-with open("data/today_prices.json", "w") as f:
-    json.dump(data, f, indent=2)
+          ee_only = data["data"]["ee"]
 
-print("Saved today_prices.json")
+          with open("data/ee_today.json", "w") as f:
+              json.dump(ee_only, f)
+
+          print("Created ee_today.json with", len(ee_only), "entries")
+          EOF
+
+      - name: Commit and push updates
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/today_prices.json data/ee_today.json
+          git commit -m "Auto update prices" || echo "No changes"
+          git push https://x-access-token:$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
