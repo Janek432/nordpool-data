@@ -23,6 +23,23 @@ jobs:
       - name: Download Nord Pool data
         run: python download_nordpool.py
 
+      - name: Create small EE-only JSON
+        run: |
+          python3 - << 'EOF'
+          import json
+
+          with open("data/today_prices.json", "r") as f:
+              data = json.load(f)
+
+          ee_only = data["data"]["ee"]
+
+          with open("data/ee_today.json", "w") as f:
+              json.dump(ee_only, f)
+
+          print("Created ee_today.json with", len(ee_only), "entries")
+          EOF
+
+
       - name: Commit and push
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -32,3 +49,5 @@ jobs:
           git add data/today_prices.json
           git commit -m "Update today's Nord Pool prices" || echo "No changes to commit"
           git push https://x-access-token:$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
+          git add data/today_prices.json data/ee_today.json
+
