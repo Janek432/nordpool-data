@@ -15,29 +15,19 @@ print("Vastus algusest:", resp.text[:200])
 
 raw = resp.json()
 
-# --- Filtreeri ainult EE hind ---
-ee_entries = []
+# --- VÕTA OTSE EE ANDMED ---
+ee_only = raw["data"]["ee"]
 
-for entry in raw["data"]:
-    if entry["area"] == "EE":
-        # Teisenda timestamp UNIX sekunditeks
-        ts = int(datetime.fromisoformat(entry["timestamp"].replace("Z", "+00:00")).timestamp())
-
-        ee_entries.append({
-            "timestamp": ts,
-            "price": entry["price"]
-        })
-
-# --- Lõplik struktuur ESP8266 jaoks ---
+# --- PANE NEED ESP8266 FORMAATI ---
 final = {
     "success": True,
     "data": {
-        "ee": ee_entries
+        "ee": ee_only
     }
 }
 
-# Salvesta õigesse faili
+# Salvesta GitHubi
 with open("data/today_prices.json", "w") as f:
     json.dump(final, f, indent=2)
 
-print("Kirjutatud today_prices.json", len(ee_entries), "rea hinnad")
+print("Salvestatud EE hinnad:", len(ee_only), "kirjet")
