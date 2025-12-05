@@ -1,102 +1,32 @@
-name: Update Nord Pool Prices
+import requests
+import json
+from datetime import datetime, timezone
 
-on:
-  schedule:
-    - cron: '1 0 * * *'   # UTC 00:01 → Eesti 02:01 suvel / 01:01 talvel
-  workflow_dispatch:
+# --- create dates ---
+today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+start = f"{today}T00:00:00Z"
+end   = f"{today}T23:59:59Z"
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+url = f"https://dashboard.elering.ee/api/nps/price?start={start}&end={end}"
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+print("Requesting:", url)
 
-      - name: Install dependencies
-        run: pip install requests python-dateutil
+# --- STREAM DOWNLOAD (fixes hanging) ---
+with requests.get(url, stream=True, timeout=20) as r:
+    r.raise_for_status()
 
-      - name: Download Nord Pool data with validation + retry
-        run: |
-          python3 << 'EOF'
-          import json, time
-          import requests
-          from datetime import datetime
+    raw = ""
+    for chunk in r.iter_content(chunk_size=16384):
+        if chunk:
+            raw += chunk.decode('utf-8')
 
-          url = "https://dashboard.elering.ee/api/nps/price"
+print("Download OK, length:", len(raw))
 
-          # kuupäev tänaseks (UTC)
-          today = datetime.utcnow().strftime("%Y-%m-%d")
-          start = f"{today}T00:00:00Z"
-          end   = f"{today}T23:59:59Z"
+# Parse JSON safely
+data = json.loads(raw)
 
-          print("⏳ Starting Nordpool fetch sequence...")
-          print(f"   Querying: {start} → {end}")
+# Save full JSON
+with open("data/today_prices.json", "w") as f:
+    json.dump(data, f, indent=2)
 
-          MAX_RETRIES = 6
-          RETRY_DELAY = 300  # 5 min
-          data = None
-
-          for attempt in range(1, MAX_RETRIES+1):
-              print(f"\n🔎 Attempt {attempt}/{MAX_RETRIES}")
-              try:
-                  resp = requests.get(f"{url}?start={start}&end={end}", timeout=10)
-                  print("HTTP:", resp.status_code)
-
-                  if resp.status_code != 200:
-                      raise RuntimeError("HTTP fail")
-
-                  payload = resp.json()
-
-                  # Kontroll: kas struktuur olemas
-                  if "data" not in payload or "ee" not in payload["data"]:
-                      raise ValueError("JSON missing structure")
-
-                  ee_list = payload["data"]["ee"]
-                  print(f"Found {len(ee_list)} EE price entries")
-
-                  # Peamine kontroll — peab olema 96 × 15min kirjet
-                  if len(ee_list) == 96:
-                      print("✅ Data OK — 96 entries complete!")
-                      data = payload
-                      break
-                  else:
-                      print("❌ Data incomplete. Expected 96 entries.")
-
-              except Exception as e:
-                  print("ERROR:", e)
-
-              if attempt < MAX_RETRIES:
-                  print(f"⏱ Waiting {RETRY_DELAY} sec before retry...")
-                  time.sleep(RETRY_DELAY)
-
-          if data is None:
-              print("❌ FAILED: Could not fetch complete dataset. Aborting.")
-              exit(1)
-
-          # SALVESTA TÄIS JSON
-          with open("data/today_prices.json", "w") as f:
-              json.dump(data, f, indent=2)
-
-          # SALVESTA AINULT EE
-          with open("data/ee_today.json", "w") as f:
-              json.dump(data["data"]["ee"], f, indent=2)
-
-          print("\n🎉 SUCCESS — Files updated!")
-          EOF
-
-      - name: Commit and push
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add data/today_prices.json data/ee_today.json
-          git commit -m "Daily Nordpool update" || echo "No changes to commit"
-
-          git push https://x-access-token:$GH_PAT@github.com/Janek432/nordpool-data.git HEAD:main
+print("Saved today_prices.json")
