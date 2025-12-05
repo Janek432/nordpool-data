@@ -11,10 +11,33 @@ url = f"https://dashboard.elering.ee/api/nps/price?start={start}&end={end}"
 
 resp = requests.get(url, timeout=10)
 print("HTTP status:", resp.status_code)
-print("Vastus algusest:", resp.text[:100])
+print("Vastus algusest:", resp.text[:200])
 
-data = resp.json()
+raw = resp.json()
 
-# Salvesta GitHubi kasutamiseks JSON faili
+# --- Filtreeri ainult EE hind ---
+ee_entries = []
+
+for entry in raw["data"]:
+    if entry["area"] == "EE":
+        # Teisenda timestamp UNIX sekunditeks
+        ts = int(datetime.fromisoformat(entry["timestamp"].replace("Z", "+00:00")).timestamp())
+
+        ee_entries.append({
+            "timestamp": ts,
+            "price": entry["price"]
+        })
+
+# --- Lõplik struktuur ESP8266 jaoks ---
+final = {
+    "success": True,
+    "data": {
+        "ee": ee_entries
+    }
+}
+
+# Salvesta õigesse faili
 with open("data/today_prices.json", "w") as f:
-    json.dump(data, f, indent=2)
+    json.dump(final, f, indent=2)
+
+print("Kirjutatud today_prices.json", len(ee_entries), "rea hinnad")
