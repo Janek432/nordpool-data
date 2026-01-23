@@ -3,1482 +3,1482 @@
   "data": {
     "ee": [
       {
-        "timestamp": 1769040000,
-        "price": 86.33
+        "timestamp": 1769126400,
+        "price": 112.15
       },
       {
-        "timestamp": 1769040900,
-        "price": 84.49
+        "timestamp": 1769127300,
+        "price": 111.18
       },
       {
-        "timestamp": 1769041800,
-        "price": 81.53
+        "timestamp": 1769128200,
+        "price": 111.26
       },
       {
-        "timestamp": 1769042700,
-        "price": 81.19
+        "timestamp": 1769129100,
+        "price": 110.13
       },
       {
-        "timestamp": 1769043600,
-        "price": 83.01
+        "timestamp": 1769130000,
+        "price": 113.8
       },
       {
-        "timestamp": 1769044500,
-        "price": 83.29
+        "timestamp": 1769130900,
+        "price": 111.04
       },
       {
-        "timestamp": 1769045400,
-        "price": 81.99
+        "timestamp": 1769131800,
+        "price": 110.96
       },
       {
-        "timestamp": 1769046300,
-        "price": 79.82
+        "timestamp": 1769132700,
+        "price": 110.8
       },
       {
-        "timestamp": 1769047200,
-        "price": 82.8
+        "timestamp": 1769133600,
+        "price": 104.0
       },
       {
-        "timestamp": 1769048100,
-        "price": 81.99
+        "timestamp": 1769134500,
+        "price": 106.65
       },
       {
-        "timestamp": 1769049000,
-        "price": 80.85
+        "timestamp": 1769135400,
+        "price": 103.86
       },
       {
-        "timestamp": 1769049900,
-        "price": 81.47
+        "timestamp": 1769136300,
+        "price": 103.99
       },
       {
-        "timestamp": 1769050800,
-        "price": 81.78
+        "timestamp": 1769137200,
+        "price": 93.73
       },
       {
-        "timestamp": 1769051700,
-        "price": 82.4
+        "timestamp": 1769138100,
+        "price": 104.32
       },
       {
-        "timestamp": 1769052600,
-        "price": 82.91
+        "timestamp": 1769139000,
+        "price": 110.18
       },
       {
-        "timestamp": 1769053500,
-        "price": 93.05
+        "timestamp": 1769139900,
+        "price": 115.34
       },
       {
-        "timestamp": 1769054400,
-        "price": 81.47
+        "timestamp": 1769140800,
+        "price": 106.64
       },
       {
-        "timestamp": 1769055300,
-        "price": 107.51
+        "timestamp": 1769141700,
+        "price": 114.39
       },
       {
-        "timestamp": 1769056200,
-        "price": 116.33
+        "timestamp": 1769142600,
+        "price": 135.7
       },
       {
-        "timestamp": 1769057100,
-        "price": 124.96
+        "timestamp": 1769143500,
+        "price": 163.71
       },
       {
-        "timestamp": 1769058000,
-        "price": 95.77
-      },
-      {
-        "timestamp": 1769058900,
-        "price": 124.27
-      },
-      {
-        "timestamp": 1769059800,
-        "price": 150.05
-      },
-      {
-        "timestamp": 1769060700,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769061600,
-        "price": 168.81
-      },
-      {
-        "timestamp": 1769062500,
-        "price": 233.43
-      },
-      {
-        "timestamp": 1769063400,
-        "price": 249.57
-      },
-      {
-        "timestamp": 1769064300,
-        "price": 253.38
-      },
-      {
-        "timestamp": 1769065200,
-        "price": 233.28
-      },
-      {
-        "timestamp": 1769066100,
-        "price": 224.39
-      },
-      {
-        "timestamp": 1769067000,
-        "price": 209.99
-      },
-      {
-        "timestamp": 1769067900,
-        "price": 182.6
-      },
-      {
-        "timestamp": 1769068800,
-        "price": 209.5
-      },
-      {
-        "timestamp": 1769069700,
-        "price": 168.15
-      },
-      {
-        "timestamp": 1769070600,
-        "price": 150.05
-      },
-      {
-        "timestamp": 1769071500,
-        "price": 150.04
-      },
-      {
-        "timestamp": 1769072400,
-        "price": 151.06
-      },
-      {
-        "timestamp": 1769073300,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769074200,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769075100,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769076000,
-        "price": 151.06
-      },
-      {
-        "timestamp": 1769076900,
-        "price": 151.07
-      },
-      {
-        "timestamp": 1769077800,
-        "price": 151.07
-      },
-      {
-        "timestamp": 1769078700,
-        "price": 159.27
-      },
-      {
-        "timestamp": 1769079600,
-        "price": 156.14
-      },
-      {
-        "timestamp": 1769080500,
-        "price": 160.13
-      },
-      {
-        "timestamp": 1769081400,
-        "price": 154.37
-      },
-      {
-        "timestamp": 1769082300,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769083200,
-        "price": 167.36
-      },
-      {
-        "timestamp": 1769084100,
-        "price": 153.28
-      },
-      {
-        "timestamp": 1769085000,
-        "price": 154.02
-      },
-      {
-        "timestamp": 1769085900,
-        "price": 163.28
-      },
-      {
-        "timestamp": 1769086800,
-        "price": 150.13
-      },
-      {
-        "timestamp": 1769087700,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769088600,
-        "price": 150.14
-      },
-      {
-        "timestamp": 1769089500,
-        "price": 161.96
-      },
-      {
-        "timestamp": 1769090400,
-        "price": 151.56
-      },
-      {
-        "timestamp": 1769091300,
-        "price": 165.25
-      },
-      {
-        "timestamp": 1769092200,
-        "price": 206.19
-      },
-      {
-        "timestamp": 1769093100,
-        "price": 207.77
-      },
-      {
-        "timestamp": 1769094000,
-        "price": 167.48
-      },
-      {
-        "timestamp": 1769094900,
-        "price": 194.93
-      },
-      {
-        "timestamp": 1769095800,
-        "price": 200.07
-      },
-      {
-        "timestamp": 1769096700,
-        "price": 182.9
-      },
-      {
-        "timestamp": 1769097600,
-        "price": 177.46
-      },
-      {
-        "timestamp": 1769098500,
-        "price": 170.39
-      },
-      {
-        "timestamp": 1769099400,
-        "price": 170.39
-      },
-      {
-        "timestamp": 1769100300,
+        "timestamp": 1769144400,
         "price": 150.12
       },
       {
-        "timestamp": 1769101200,
-        "price": 160.78
+        "timestamp": 1769145300,
+        "price": 178.85
       },
       {
-        "timestamp": 1769102100,
-        "price": 156.05
+        "timestamp": 1769146200,
+        "price": 189.68
       },
       {
-        "timestamp": 1769103000,
-        "price": 152.61
+        "timestamp": 1769147100,
+        "price": 203.32
       },
       {
-        "timestamp": 1769103900,
-        "price": 147.58
+        "timestamp": 1769148000,
+        "price": 149.15
       },
       {
-        "timestamp": 1769104800,
-        "price": 153.35
+        "timestamp": 1769148900,
+        "price": 181.22
       },
       {
-        "timestamp": 1769105700,
+        "timestamp": 1769149800,
+        "price": 221.01
+      },
+      {
+        "timestamp": 1769150700,
+        "price": 227.81
+      },
+      {
+        "timestamp": 1769151600,
+        "price": 210.0
+      },
+      {
+        "timestamp": 1769152500,
+        "price": 212.27
+      },
+      {
+        "timestamp": 1769153400,
+        "price": 219.13
+      },
+      {
+        "timestamp": 1769154300,
+        "price": 204.62
+      },
+      {
+        "timestamp": 1769155200,
+        "price": 209.24
+      },
+      {
+        "timestamp": 1769156100,
+        "price": 218.67
+      },
+      {
+        "timestamp": 1769157000,
+        "price": 200.07
+      },
+      {
+        "timestamp": 1769157900,
+        "price": 172.3
+      },
+      {
+        "timestamp": 1769158800,
+        "price": 221.11
+      },
+      {
+        "timestamp": 1769159700,
+        "price": 198.23
+      },
+      {
+        "timestamp": 1769160600,
+        "price": 172.31
+      },
+      {
+        "timestamp": 1769161500,
         "price": 150.05
       },
       {
-        "timestamp": 1769106600,
-        "price": 146.11
+        "timestamp": 1769162400,
+        "price": 200.1
       },
       {
-        "timestamp": 1769107500,
-        "price": 110.64
+        "timestamp": 1769163300,
+        "price": 199.09
       },
       {
-        "timestamp": 1769108400,
-        "price": 150.04
+        "timestamp": 1769164200,
+        "price": 190.07
       },
       {
-        "timestamp": 1769109300,
-        "price": 133.35
+        "timestamp": 1769165100,
+        "price": 190.29
       },
       {
-        "timestamp": 1769110200,
-        "price": 108.6
+        "timestamp": 1769166000,
+        "price": 200.15
       },
       {
-        "timestamp": 1769111100,
-        "price": 99.01
+        "timestamp": 1769166900,
+        "price": 200.17
       },
       {
-        "timestamp": 1769112000,
-        "price": 114.91
+        "timestamp": 1769167800,
+        "price": 200.16
       },
       {
-        "timestamp": 1769112900,
-        "price": 113.93
+        "timestamp": 1769168700,
+        "price": 190.03
       },
       {
-        "timestamp": 1769113800,
-        "price": 107.82
+        "timestamp": 1769169600,
+        "price": 189.48
       },
       {
-        "timestamp": 1769114700,
-        "price": 103.09
+        "timestamp": 1769170500,
+        "price": 189.25
       },
       {
-        "timestamp": 1769115600,
-        "price": 121.54
+        "timestamp": 1769171400,
+        "price": 189.23
       },
       {
-        "timestamp": 1769116500,
-        "price": 113.23
+        "timestamp": 1769172300,
+        "price": 189.55
       },
       {
-        "timestamp": 1769117400,
-        "price": 102.39
+        "timestamp": 1769173200,
+        "price": 180.23
       },
       {
-        "timestamp": 1769118300,
-        "price": 92.17
+        "timestamp": 1769174100,
+        "price": 189.19
       },
       {
-        "timestamp": 1769119200,
-        "price": 102.39
+        "timestamp": 1769175000,
+        "price": 189.86
       },
       {
-        "timestamp": 1769120100,
-        "price": 94.93
+        "timestamp": 1769175900,
+        "price": 190.12
       },
       {
-        "timestamp": 1769121000,
-        "price": 92.19
+        "timestamp": 1769176800,
+        "price": 189.74
       },
       {
-        "timestamp": 1769121900,
-        "price": 87.26
+        "timestamp": 1769177700,
+        "price": 205.3
+      },
+      {
+        "timestamp": 1769178600,
+        "price": 200.12
+      },
+      {
+        "timestamp": 1769179500,
+        "price": 200.14
+      },
+      {
+        "timestamp": 1769180400,
+        "price": 157.26
+      },
+      {
+        "timestamp": 1769181300,
+        "price": 164.02
+      },
+      {
+        "timestamp": 1769182200,
+        "price": 193.42
+      },
+      {
+        "timestamp": 1769183100,
+        "price": 206.46
+      },
+      {
+        "timestamp": 1769184000,
+        "price": 175.98
+      },
+      {
+        "timestamp": 1769184900,
+        "price": 210.01
+      },
+      {
+        "timestamp": 1769185800,
+        "price": 182.12
+      },
+      {
+        "timestamp": 1769186700,
+        "price": 174.29
+      },
+      {
+        "timestamp": 1769187600,
+        "price": 203.12
+      },
+      {
+        "timestamp": 1769188500,
+        "price": 176.78
+      },
+      {
+        "timestamp": 1769189400,
+        "price": 168.52
+      },
+      {
+        "timestamp": 1769190300,
+        "price": 166.18
+      },
+      {
+        "timestamp": 1769191200,
+        "price": 178.59
+      },
+      {
+        "timestamp": 1769192100,
+        "price": 160.69
+      },
+      {
+        "timestamp": 1769193000,
+        "price": 151.15
+      },
+      {
+        "timestamp": 1769193900,
+        "price": 144.44
+      },
+      {
+        "timestamp": 1769194800,
+        "price": 146.2
+      },
+      {
+        "timestamp": 1769195700,
+        "price": 138.78
+      },
+      {
+        "timestamp": 1769196600,
+        "price": 138.17
+      },
+      {
+        "timestamp": 1769197500,
+        "price": 115.1
+      },
+      {
+        "timestamp": 1769198400,
+        "price": 136.99
+      },
+      {
+        "timestamp": 1769199300,
+        "price": 150.13
+      },
+      {
+        "timestamp": 1769200200,
+        "price": 131.0
+      },
+      {
+        "timestamp": 1769201100,
+        "price": 110.68
+      },
+      {
+        "timestamp": 1769202000,
+        "price": 127.92
+      },
+      {
+        "timestamp": 1769202900,
+        "price": 118.04
+      },
+      {
+        "timestamp": 1769203800,
+        "price": 117.72
+      },
+      {
+        "timestamp": 1769204700,
+        "price": 115.69
+      },
+      {
+        "timestamp": 1769205600,
+        "price": 115.29
+      },
+      {
+        "timestamp": 1769206500,
+        "price": 100.16
+      },
+      {
+        "timestamp": 1769207400,
+        "price": 95.0
+      },
+      {
+        "timestamp": 1769208300,
+        "price": 94.04
       }
     ],
     "fi": [
       {
-        "timestamp": 1769040000,
-        "price": 86.33
+        "timestamp": 1769126400,
+        "price": 112.07
       },
       {
-        "timestamp": 1769040900,
-        "price": 84.48
+        "timestamp": 1769127300,
+        "price": 111.1
       },
       {
-        "timestamp": 1769041800,
-        "price": 81.53
+        "timestamp": 1769128200,
+        "price": 111.18
       },
       {
-        "timestamp": 1769042700,
-        "price": 81.19
+        "timestamp": 1769129100,
+        "price": 110.05
       },
       {
-        "timestamp": 1769043600,
-        "price": 83.01
+        "timestamp": 1769130000,
+        "price": 113.72
       },
       {
-        "timestamp": 1769044500,
-        "price": 83.29
+        "timestamp": 1769130900,
+        "price": 110.96
       },
       {
-        "timestamp": 1769045400,
-        "price": 81.99
+        "timestamp": 1769131800,
+        "price": 110.88
       },
       {
-        "timestamp": 1769046300,
-        "price": 79.81
+        "timestamp": 1769132700,
+        "price": 110.72
       },
       {
-        "timestamp": 1769047200,
-        "price": 82.8
+        "timestamp": 1769133600,
+        "price": 103.99
       },
       {
-        "timestamp": 1769048100,
-        "price": 81.99
+        "timestamp": 1769134500,
+        "price": 106.62
       },
       {
-        "timestamp": 1769049000,
-        "price": 80.85
+        "timestamp": 1769135400,
+        "price": 103.84
       },
       {
-        "timestamp": 1769049900,
-        "price": 81.47
+        "timestamp": 1769136300,
+        "price": 103.97
       },
       {
-        "timestamp": 1769050800,
-        "price": 81.78
+        "timestamp": 1769137200,
+        "price": 93.66
       },
       {
-        "timestamp": 1769051700,
-        "price": 82.4
+        "timestamp": 1769138100,
+        "price": 104.24
       },
       {
-        "timestamp": 1769052600,
-        "price": 82.91
+        "timestamp": 1769139000,
+        "price": 110.09
       },
       {
-        "timestamp": 1769053500,
-        "price": 93.04
+        "timestamp": 1769139900,
+        "price": 115.25
       },
       {
-        "timestamp": 1769054400,
-        "price": 81.47
+        "timestamp": 1769140800,
+        "price": 106.55
       },
       {
-        "timestamp": 1769055300,
-        "price": 107.49
+        "timestamp": 1769141700,
+        "price": 114.29
       },
       {
-        "timestamp": 1769056200,
-        "price": 116.3
+        "timestamp": 1769142600,
+        "price": 135.58
       },
       {
-        "timestamp": 1769057100,
-        "price": 124.93
+        "timestamp": 1769143500,
+        "price": 163.56
       },
       {
-        "timestamp": 1769058000,
-        "price": 95.75
-      },
-      {
-        "timestamp": 1769058900,
-        "price": 124.23
-      },
-      {
-        "timestamp": 1769059800,
-        "price": 149.99
-      },
-      {
-        "timestamp": 1769060700,
-        "price": 150.02
-      },
-      {
-        "timestamp": 1769061600,
+        "timestamp": 1769144400,
         "price": 150.0
       },
       {
-        "timestamp": 1769062500,
-        "price": 151.01
+        "timestamp": 1769145300,
+        "price": 178.7
       },
       {
-        "timestamp": 1769063400,
-        "price": 157.28
+        "timestamp": 1769146200,
+        "price": 189.52
       },
       {
-        "timestamp": 1769064300,
-        "price": 189.45
+        "timestamp": 1769147100,
+        "price": 203.15
       },
       {
-        "timestamp": 1769065200,
-        "price": 160.77
+        "timestamp": 1769148000,
+        "price": 149.06
       },
       {
-        "timestamp": 1769066100,
-        "price": 157.39
+        "timestamp": 1769148900,
+        "price": 181.08
       },
       {
-        "timestamp": 1769067000,
-        "price": 160.39
+        "timestamp": 1769149800,
+        "price": 220.84
       },
       {
-        "timestamp": 1769067900,
-        "price": 161.42
+        "timestamp": 1769150700,
+        "price": 227.63
       },
       {
-        "timestamp": 1769068800,
-        "price": 173.67
+        "timestamp": 1769151600,
+        "price": 209.82
       },
       {
-        "timestamp": 1769069700,
-        "price": 168.09
+        "timestamp": 1769152500,
+        "price": 212.1
       },
       {
-        "timestamp": 1769070600,
-        "price": 150.0
+        "timestamp": 1769153400,
+        "price": 218.94
       },
       {
-        "timestamp": 1769071500,
-        "price": 149.99
+        "timestamp": 1769154300,
+        "price": 204.44
       },
       {
-        "timestamp": 1769072400,
-        "price": 151.01
+        "timestamp": 1769155200,
+        "price": 209.18
       },
       {
-        "timestamp": 1769073300,
-        "price": 150.0
+        "timestamp": 1769156100,
+        "price": 218.59
       },
       {
-        "timestamp": 1769074200,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1769075100,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1769076000,
-        "price": 151.0
-      },
-      {
-        "timestamp": 1769076900,
-        "price": 151.01
-      },
-      {
-        "timestamp": 1769077800,
-        "price": 151.0
-      },
-      {
-        "timestamp": 1769078700,
-        "price": 159.19
-      },
-      {
-        "timestamp": 1769079600,
-        "price": 156.07
-      },
-      {
-        "timestamp": 1769080500,
-        "price": 160.05
-      },
-      {
-        "timestamp": 1769081400,
-        "price": 154.3
-      },
-      {
-        "timestamp": 1769082300,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1769083200,
-        "price": 167.27
-      },
-      {
-        "timestamp": 1769084100,
-        "price": 153.21
-      },
-      {
-        "timestamp": 1769085000,
-        "price": 153.95
-      },
-      {
-        "timestamp": 1769085900,
-        "price": 163.2
-      },
-      {
-        "timestamp": 1769086800,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769087700,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1769088600,
-        "price": 150.08
-      },
-      {
-        "timestamp": 1769089500,
-        "price": 161.89
-      },
-      {
-        "timestamp": 1769090400,
-        "price": 151.5
-      },
-      {
-        "timestamp": 1769091300,
-        "price": 165.18
-      },
-      {
-        "timestamp": 1769092200,
-        "price": 206.08
-      },
-      {
-        "timestamp": 1769093100,
-        "price": 207.66
-      },
-      {
-        "timestamp": 1769094000,
-        "price": 167.42
-      },
-      {
-        "timestamp": 1769094900,
-        "price": 194.84
-      },
-      {
-        "timestamp": 1769095800,
+        "timestamp": 1769157000,
         "price": 199.99
       },
       {
-        "timestamp": 1769096700,
-        "price": 182.84
+        "timestamp": 1769157900,
+        "price": 172.24
       },
       {
-        "timestamp": 1769097600,
-        "price": 177.4
+        "timestamp": 1769158800,
+        "price": 221.01
       },
       {
-        "timestamp": 1769098500,
-        "price": 170.35
+        "timestamp": 1769159700,
+        "price": 198.14
       },
       {
-        "timestamp": 1769099400,
-        "price": 170.35
+        "timestamp": 1769160600,
+        "price": 172.24
       },
       {
-        "timestamp": 1769100300,
-        "price": 150.1
+        "timestamp": 1769161500,
+        "price": 150.0
       },
       {
-        "timestamp": 1769101200,
-        "price": 160.74
+        "timestamp": 1769162400,
+        "price": 199.99
       },
       {
-        "timestamp": 1769102100,
-        "price": 156.01
+        "timestamp": 1769163300,
+        "price": 198.98
       },
       {
-        "timestamp": 1769103000,
-        "price": 152.57
+        "timestamp": 1769164200,
+        "price": 189.96
       },
       {
-        "timestamp": 1769103900,
-        "price": 147.53
+        "timestamp": 1769165100,
+        "price": 190.18
       },
       {
-        "timestamp": 1769104800,
-        "price": 153.29
+        "timestamp": 1769166000,
+        "price": 200.0
       },
       {
-        "timestamp": 1769105700,
+        "timestamp": 1769166900,
+        "price": 199.99
+      },
+      {
+        "timestamp": 1769167800,
+        "price": 199.99
+      },
+      {
+        "timestamp": 1769168700,
+        "price": 189.91
+      },
+      {
+        "timestamp": 1769169600,
+        "price": 189.37
+      },
+      {
+        "timestamp": 1769170500,
+        "price": 189.14
+      },
+      {
+        "timestamp": 1769171400,
+        "price": 189.11
+      },
+      {
+        "timestamp": 1769172300,
+        "price": 189.43
+      },
+      {
+        "timestamp": 1769173200,
+        "price": 180.07
+      },
+      {
+        "timestamp": 1769174100,
+        "price": 189.06
+      },
+      {
+        "timestamp": 1769175000,
+        "price": 189.69
+      },
+      {
+        "timestamp": 1769175900,
+        "price": 189.98
+      },
+      {
+        "timestamp": 1769176800,
+        "price": 189.63
+      },
+      {
+        "timestamp": 1769177700,
+        "price": 205.17
+      },
+      {
+        "timestamp": 1769178600,
+        "price": 200.0
+      },
+      {
+        "timestamp": 1769179500,
+        "price": 199.99
+      },
+      {
+        "timestamp": 1769180400,
+        "price": 157.2
+      },
+      {
+        "timestamp": 1769181300,
+        "price": 163.95
+      },
+      {
+        "timestamp": 1769182200,
+        "price": 193.31
+      },
+      {
+        "timestamp": 1769183100,
+        "price": 206.34
+      },
+      {
+        "timestamp": 1769184000,
+        "price": 175.86
+      },
+      {
+        "timestamp": 1769184900,
+        "price": 209.85
+      },
+      {
+        "timestamp": 1769185800,
+        "price": 181.99
+      },
+      {
+        "timestamp": 1769186700,
+        "price": 174.17
+      },
+      {
+        "timestamp": 1769187600,
+        "price": 202.9
+      },
+      {
+        "timestamp": 1769188500,
+        "price": 176.59
+      },
+      {
+        "timestamp": 1769189400,
+        "price": 168.34
+      },
+      {
+        "timestamp": 1769190300,
+        "price": 166.01
+      },
+      {
+        "timestamp": 1769191200,
+        "price": 178.4
+      },
+      {
+        "timestamp": 1769192100,
+        "price": 160.52
+      },
+      {
+        "timestamp": 1769193000,
+        "price": 151.0
+      },
+      {
+        "timestamp": 1769193900,
+        "price": 144.29
+      },
+      {
+        "timestamp": 1769194800,
+        "price": 146.07
+      },
+      {
+        "timestamp": 1769195700,
+        "price": 138.67
+      },
+      {
+        "timestamp": 1769196600,
+        "price": 138.06
+      },
+      {
+        "timestamp": 1769197500,
+        "price": 115.01
+      },
+      {
+        "timestamp": 1769198400,
+        "price": 136.87
+      },
+      {
+        "timestamp": 1769199300,
         "price": 149.99
       },
       {
-        "timestamp": 1769106600,
-        "price": 146.06
+        "timestamp": 1769200200,
+        "price": 130.88
       },
       {
-        "timestamp": 1769107500,
-        "price": 110.63
+        "timestamp": 1769201100,
+        "price": 110.59
       },
       {
-        "timestamp": 1769108400,
-        "price": 149.99
+        "timestamp": 1769202000,
+        "price": 127.85
       },
       {
-        "timestamp": 1769109300,
-        "price": 133.31
+        "timestamp": 1769202900,
+        "price": 117.99
       },
       {
-        "timestamp": 1769110200,
-        "price": 108.59
+        "timestamp": 1769203800,
+        "price": 117.65
       },
       {
-        "timestamp": 1769111100,
-        "price": 99.01
+        "timestamp": 1769204700,
+        "price": 115.62
       },
       {
-        "timestamp": 1769112000,
-        "price": 114.9
+        "timestamp": 1769205600,
+        "price": 115.21
       },
       {
-        "timestamp": 1769112900,
-        "price": 113.92
+        "timestamp": 1769206500,
+        "price": 100.09
       },
       {
-        "timestamp": 1769113800,
-        "price": 107.81
+        "timestamp": 1769207400,
+        "price": 94.94
       },
       {
-        "timestamp": 1769114700,
-        "price": 103.08
-      },
-      {
-        "timestamp": 1769115600,
-        "price": 121.51
-      },
-      {
-        "timestamp": 1769116500,
-        "price": 113.21
-      },
-      {
-        "timestamp": 1769117400,
-        "price": 102.39
-      },
-      {
-        "timestamp": 1769118300,
-        "price": 92.17
-      },
-      {
-        "timestamp": 1769119200,
-        "price": 102.39
-      },
-      {
-        "timestamp": 1769120100,
-        "price": 94.93
-      },
-      {
-        "timestamp": 1769121000,
-        "price": 92.19
-      },
-      {
-        "timestamp": 1769121900,
-        "price": 87.26
+        "timestamp": 1769208300,
+        "price": 93.98
       }
     ],
     "lv": [
       {
-        "timestamp": 1769040000,
-        "price": 86.33
+        "timestamp": 1769126400,
+        "price": 112.15
       },
       {
-        "timestamp": 1769040900,
-        "price": 84.49
+        "timestamp": 1769127300,
+        "price": 111.18
       },
       {
-        "timestamp": 1769041800,
-        "price": 81.53
+        "timestamp": 1769128200,
+        "price": 111.26
       },
       {
-        "timestamp": 1769042700,
-        "price": 81.19
+        "timestamp": 1769129100,
+        "price": 110.13
       },
       {
-        "timestamp": 1769043600,
-        "price": 83.01
+        "timestamp": 1769130000,
+        "price": 113.8
       },
       {
-        "timestamp": 1769044500,
-        "price": 83.29
+        "timestamp": 1769130900,
+        "price": 111.04
       },
       {
-        "timestamp": 1769045400,
-        "price": 81.99
+        "timestamp": 1769131800,
+        "price": 110.96
       },
       {
-        "timestamp": 1769046300,
-        "price": 79.82
+        "timestamp": 1769132700,
+        "price": 110.8
       },
       {
-        "timestamp": 1769047200,
-        "price": 82.8
+        "timestamp": 1769133600,
+        "price": 104.0
       },
       {
-        "timestamp": 1769048100,
-        "price": 81.99
+        "timestamp": 1769134500,
+        "price": 106.65
       },
       {
-        "timestamp": 1769049000,
-        "price": 80.85
+        "timestamp": 1769135400,
+        "price": 103.86
       },
       {
-        "timestamp": 1769049900,
-        "price": 81.47
+        "timestamp": 1769136300,
+        "price": 103.99
       },
       {
-        "timestamp": 1769050800,
-        "price": 81.78
+        "timestamp": 1769137200,
+        "price": 93.73
       },
       {
-        "timestamp": 1769051700,
-        "price": 82.4
+        "timestamp": 1769138100,
+        "price": 104.32
       },
       {
-        "timestamp": 1769052600,
-        "price": 82.91
+        "timestamp": 1769139000,
+        "price": 110.18
       },
       {
-        "timestamp": 1769053500,
-        "price": 93.05
+        "timestamp": 1769139900,
+        "price": 115.34
       },
       {
-        "timestamp": 1769054400,
-        "price": 81.47
+        "timestamp": 1769140800,
+        "price": 106.64
       },
       {
-        "timestamp": 1769055300,
-        "price": 107.51
+        "timestamp": 1769141700,
+        "price": 114.39
       },
       {
-        "timestamp": 1769056200,
-        "price": 116.33
+        "timestamp": 1769142600,
+        "price": 135.7
       },
       {
-        "timestamp": 1769057100,
-        "price": 124.96
+        "timestamp": 1769143500,
+        "price": 163.71
       },
       {
-        "timestamp": 1769058000,
-        "price": 95.77
-      },
-      {
-        "timestamp": 1769058900,
-        "price": 124.27
-      },
-      {
-        "timestamp": 1769059800,
-        "price": 150.05
-      },
-      {
-        "timestamp": 1769060700,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769061600,
-        "price": 168.81
-      },
-      {
-        "timestamp": 1769062500,
-        "price": 233.43
-      },
-      {
-        "timestamp": 1769063400,
-        "price": 249.57
-      },
-      {
-        "timestamp": 1769064300,
-        "price": 253.38
-      },
-      {
-        "timestamp": 1769065200,
-        "price": 233.28
-      },
-      {
-        "timestamp": 1769066100,
-        "price": 224.39
-      },
-      {
-        "timestamp": 1769067000,
-        "price": 209.99
-      },
-      {
-        "timestamp": 1769067900,
-        "price": 182.6
-      },
-      {
-        "timestamp": 1769068800,
-        "price": 209.5
-      },
-      {
-        "timestamp": 1769069700,
-        "price": 168.15
-      },
-      {
-        "timestamp": 1769070600,
-        "price": 150.05
-      },
-      {
-        "timestamp": 1769071500,
-        "price": 150.04
-      },
-      {
-        "timestamp": 1769072400,
-        "price": 151.06
-      },
-      {
-        "timestamp": 1769073300,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769074200,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769075100,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769076000,
-        "price": 151.06
-      },
-      {
-        "timestamp": 1769076900,
-        "price": 151.07
-      },
-      {
-        "timestamp": 1769077800,
-        "price": 151.07
-      },
-      {
-        "timestamp": 1769078700,
-        "price": 159.27
-      },
-      {
-        "timestamp": 1769079600,
-        "price": 156.14
-      },
-      {
-        "timestamp": 1769080500,
-        "price": 160.13
-      },
-      {
-        "timestamp": 1769081400,
-        "price": 154.37
-      },
-      {
-        "timestamp": 1769082300,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769083200,
-        "price": 167.36
-      },
-      {
-        "timestamp": 1769084100,
-        "price": 153.28
-      },
-      {
-        "timestamp": 1769085000,
-        "price": 154.02
-      },
-      {
-        "timestamp": 1769085900,
-        "price": 163.28
-      },
-      {
-        "timestamp": 1769086800,
-        "price": 150.13
-      },
-      {
-        "timestamp": 1769087700,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769088600,
-        "price": 150.14
-      },
-      {
-        "timestamp": 1769089500,
-        "price": 161.96
-      },
-      {
-        "timestamp": 1769090400,
-        "price": 151.56
-      },
-      {
-        "timestamp": 1769091300,
-        "price": 165.25
-      },
-      {
-        "timestamp": 1769092200,
-        "price": 206.19
-      },
-      {
-        "timestamp": 1769093100,
-        "price": 207.77
-      },
-      {
-        "timestamp": 1769094000,
-        "price": 167.48
-      },
-      {
-        "timestamp": 1769094900,
-        "price": 194.93
-      },
-      {
-        "timestamp": 1769095800,
-        "price": 200.07
-      },
-      {
-        "timestamp": 1769096700,
-        "price": 182.9
-      },
-      {
-        "timestamp": 1769097600,
-        "price": 177.46
-      },
-      {
-        "timestamp": 1769098500,
-        "price": 170.39
-      },
-      {
-        "timestamp": 1769099400,
-        "price": 170.39
-      },
-      {
-        "timestamp": 1769100300,
+        "timestamp": 1769144400,
         "price": 150.12
       },
       {
-        "timestamp": 1769101200,
-        "price": 160.78
+        "timestamp": 1769145300,
+        "price": 178.85
       },
       {
-        "timestamp": 1769102100,
-        "price": 156.05
+        "timestamp": 1769146200,
+        "price": 189.68
       },
       {
-        "timestamp": 1769103000,
-        "price": 152.61
+        "timestamp": 1769147100,
+        "price": 203.32
       },
       {
-        "timestamp": 1769103900,
-        "price": 147.58
+        "timestamp": 1769148000,
+        "price": 149.15
       },
       {
-        "timestamp": 1769104800,
-        "price": 153.35
+        "timestamp": 1769148900,
+        "price": 181.22
       },
       {
-        "timestamp": 1769105700,
+        "timestamp": 1769149800,
+        "price": 221.01
+      },
+      {
+        "timestamp": 1769150700,
+        "price": 227.81
+      },
+      {
+        "timestamp": 1769151600,
+        "price": 210.0
+      },
+      {
+        "timestamp": 1769152500,
+        "price": 212.27
+      },
+      {
+        "timestamp": 1769153400,
+        "price": 219.13
+      },
+      {
+        "timestamp": 1769154300,
+        "price": 204.62
+      },
+      {
+        "timestamp": 1769155200,
+        "price": 209.24
+      },
+      {
+        "timestamp": 1769156100,
+        "price": 218.67
+      },
+      {
+        "timestamp": 1769157000,
+        "price": 200.07
+      },
+      {
+        "timestamp": 1769157900,
+        "price": 172.3
+      },
+      {
+        "timestamp": 1769158800,
+        "price": 221.11
+      },
+      {
+        "timestamp": 1769159700,
+        "price": 198.23
+      },
+      {
+        "timestamp": 1769160600,
+        "price": 172.31
+      },
+      {
+        "timestamp": 1769161500,
         "price": 150.05
       },
       {
-        "timestamp": 1769106600,
-        "price": 146.11
+        "timestamp": 1769162400,
+        "price": 200.1
       },
       {
-        "timestamp": 1769107500,
-        "price": 110.64
+        "timestamp": 1769163300,
+        "price": 199.09
       },
       {
-        "timestamp": 1769108400,
-        "price": 150.04
+        "timestamp": 1769164200,
+        "price": 190.07
       },
       {
-        "timestamp": 1769109300,
-        "price": 133.35
+        "timestamp": 1769165100,
+        "price": 190.29
       },
       {
-        "timestamp": 1769110200,
-        "price": 108.6
+        "timestamp": 1769166000,
+        "price": 200.15
       },
       {
-        "timestamp": 1769111100,
-        "price": 99.01
+        "timestamp": 1769166900,
+        "price": 200.17
       },
       {
-        "timestamp": 1769112000,
-        "price": 114.91
+        "timestamp": 1769167800,
+        "price": 200.16
       },
       {
-        "timestamp": 1769112900,
-        "price": 113.93
+        "timestamp": 1769168700,
+        "price": 190.03
       },
       {
-        "timestamp": 1769113800,
-        "price": 107.82
+        "timestamp": 1769169600,
+        "price": 189.48
       },
       {
-        "timestamp": 1769114700,
-        "price": 103.09
+        "timestamp": 1769170500,
+        "price": 189.25
       },
       {
-        "timestamp": 1769115600,
-        "price": 121.54
+        "timestamp": 1769171400,
+        "price": 189.23
       },
       {
-        "timestamp": 1769116500,
-        "price": 113.23
+        "timestamp": 1769172300,
+        "price": 189.55
       },
       {
-        "timestamp": 1769117400,
-        "price": 102.39
+        "timestamp": 1769173200,
+        "price": 180.23
       },
       {
-        "timestamp": 1769118300,
-        "price": 92.17
+        "timestamp": 1769174100,
+        "price": 189.19
       },
       {
-        "timestamp": 1769119200,
-        "price": 102.39
+        "timestamp": 1769175000,
+        "price": 189.86
       },
       {
-        "timestamp": 1769120100,
-        "price": 94.93
+        "timestamp": 1769175900,
+        "price": 190.12
       },
       {
-        "timestamp": 1769121000,
-        "price": 92.19
+        "timestamp": 1769176800,
+        "price": 189.74
       },
       {
-        "timestamp": 1769121900,
-        "price": 87.26
+        "timestamp": 1769177700,
+        "price": 205.3
+      },
+      {
+        "timestamp": 1769178600,
+        "price": 200.12
+      },
+      {
+        "timestamp": 1769179500,
+        "price": 200.14
+      },
+      {
+        "timestamp": 1769180400,
+        "price": 157.26
+      },
+      {
+        "timestamp": 1769181300,
+        "price": 164.02
+      },
+      {
+        "timestamp": 1769182200,
+        "price": 193.42
+      },
+      {
+        "timestamp": 1769183100,
+        "price": 206.46
+      },
+      {
+        "timestamp": 1769184000,
+        "price": 175.98
+      },
+      {
+        "timestamp": 1769184900,
+        "price": 210.01
+      },
+      {
+        "timestamp": 1769185800,
+        "price": 182.12
+      },
+      {
+        "timestamp": 1769186700,
+        "price": 174.29
+      },
+      {
+        "timestamp": 1769187600,
+        "price": 203.12
+      },
+      {
+        "timestamp": 1769188500,
+        "price": 176.78
+      },
+      {
+        "timestamp": 1769189400,
+        "price": 168.52
+      },
+      {
+        "timestamp": 1769190300,
+        "price": 166.18
+      },
+      {
+        "timestamp": 1769191200,
+        "price": 178.59
+      },
+      {
+        "timestamp": 1769192100,
+        "price": 160.69
+      },
+      {
+        "timestamp": 1769193000,
+        "price": 151.15
+      },
+      {
+        "timestamp": 1769193900,
+        "price": 144.44
+      },
+      {
+        "timestamp": 1769194800,
+        "price": 146.2
+      },
+      {
+        "timestamp": 1769195700,
+        "price": 138.78
+      },
+      {
+        "timestamp": 1769196600,
+        "price": 138.17
+      },
+      {
+        "timestamp": 1769197500,
+        "price": 115.1
+      },
+      {
+        "timestamp": 1769198400,
+        "price": 136.99
+      },
+      {
+        "timestamp": 1769199300,
+        "price": 150.13
+      },
+      {
+        "timestamp": 1769200200,
+        "price": 131.0
+      },
+      {
+        "timestamp": 1769201100,
+        "price": 110.68
+      },
+      {
+        "timestamp": 1769202000,
+        "price": 127.92
+      },
+      {
+        "timestamp": 1769202900,
+        "price": 118.04
+      },
+      {
+        "timestamp": 1769203800,
+        "price": 117.72
+      },
+      {
+        "timestamp": 1769204700,
+        "price": 115.69
+      },
+      {
+        "timestamp": 1769205600,
+        "price": 115.29
+      },
+      {
+        "timestamp": 1769206500,
+        "price": 100.16
+      },
+      {
+        "timestamp": 1769207400,
+        "price": 95.0
+      },
+      {
+        "timestamp": 1769208300,
+        "price": 94.04
       }
     ],
     "lt": [
       {
-        "timestamp": 1769040000,
-        "price": 86.33
+        "timestamp": 1769126400,
+        "price": 112.15
       },
       {
-        "timestamp": 1769040900,
-        "price": 84.49
+        "timestamp": 1769127300,
+        "price": 111.18
       },
       {
-        "timestamp": 1769041800,
-        "price": 81.53
+        "timestamp": 1769128200,
+        "price": 111.26
       },
       {
-        "timestamp": 1769042700,
-        "price": 81.19
+        "timestamp": 1769129100,
+        "price": 110.13
       },
       {
-        "timestamp": 1769043600,
-        "price": 83.01
+        "timestamp": 1769130000,
+        "price": 113.8
       },
       {
-        "timestamp": 1769044500,
-        "price": 83.29
+        "timestamp": 1769130900,
+        "price": 111.04
       },
       {
-        "timestamp": 1769045400,
-        "price": 81.99
+        "timestamp": 1769131800,
+        "price": 110.96
       },
       {
-        "timestamp": 1769046300,
-        "price": 79.82
+        "timestamp": 1769132700,
+        "price": 110.8
       },
       {
-        "timestamp": 1769047200,
-        "price": 82.8
+        "timestamp": 1769133600,
+        "price": 104.0
       },
       {
-        "timestamp": 1769048100,
-        "price": 81.99
+        "timestamp": 1769134500,
+        "price": 106.65
       },
       {
-        "timestamp": 1769049000,
-        "price": 80.85
+        "timestamp": 1769135400,
+        "price": 103.86
       },
       {
-        "timestamp": 1769049900,
-        "price": 81.47
+        "timestamp": 1769136300,
+        "price": 103.99
       },
       {
-        "timestamp": 1769050800,
-        "price": 81.78
+        "timestamp": 1769137200,
+        "price": 93.73
       },
       {
-        "timestamp": 1769051700,
-        "price": 82.4
+        "timestamp": 1769138100,
+        "price": 104.32
       },
       {
-        "timestamp": 1769052600,
-        "price": 82.91
+        "timestamp": 1769139000,
+        "price": 110.18
       },
       {
-        "timestamp": 1769053500,
-        "price": 93.05
+        "timestamp": 1769139900,
+        "price": 115.34
       },
       {
-        "timestamp": 1769054400,
-        "price": 81.47
+        "timestamp": 1769140800,
+        "price": 106.64
       },
       {
-        "timestamp": 1769055300,
-        "price": 107.51
+        "timestamp": 1769141700,
+        "price": 114.39
       },
       {
-        "timestamp": 1769056200,
-        "price": 116.33
+        "timestamp": 1769142600,
+        "price": 135.7
       },
       {
-        "timestamp": 1769057100,
-        "price": 124.96
+        "timestamp": 1769143500,
+        "price": 163.71
       },
       {
-        "timestamp": 1769058000,
-        "price": 95.77
-      },
-      {
-        "timestamp": 1769058900,
-        "price": 124.27
-      },
-      {
-        "timestamp": 1769059800,
-        "price": 150.05
-      },
-      {
-        "timestamp": 1769060700,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769061600,
-        "price": 168.81
-      },
-      {
-        "timestamp": 1769062500,
-        "price": 233.43
-      },
-      {
-        "timestamp": 1769063400,
-        "price": 249.57
-      },
-      {
-        "timestamp": 1769064300,
-        "price": 253.38
-      },
-      {
-        "timestamp": 1769065200,
-        "price": 233.28
-      },
-      {
-        "timestamp": 1769066100,
-        "price": 224.39
-      },
-      {
-        "timestamp": 1769067000,
-        "price": 209.99
-      },
-      {
-        "timestamp": 1769067900,
-        "price": 182.6
-      },
-      {
-        "timestamp": 1769068800,
-        "price": 209.5
-      },
-      {
-        "timestamp": 1769069700,
-        "price": 168.15
-      },
-      {
-        "timestamp": 1769070600,
-        "price": 150.05
-      },
-      {
-        "timestamp": 1769071500,
-        "price": 150.04
-      },
-      {
-        "timestamp": 1769072400,
-        "price": 151.06
-      },
-      {
-        "timestamp": 1769073300,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769074200,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769075100,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769076000,
-        "price": 151.06
-      },
-      {
-        "timestamp": 1769076900,
-        "price": 151.07
-      },
-      {
-        "timestamp": 1769077800,
-        "price": 151.07
-      },
-      {
-        "timestamp": 1769078700,
-        "price": 159.27
-      },
-      {
-        "timestamp": 1769079600,
-        "price": 156.14
-      },
-      {
-        "timestamp": 1769080500,
-        "price": 160.13
-      },
-      {
-        "timestamp": 1769081400,
-        "price": 154.37
-      },
-      {
-        "timestamp": 1769082300,
-        "price": 150.07
-      },
-      {
-        "timestamp": 1769083200,
-        "price": 167.36
-      },
-      {
-        "timestamp": 1769084100,
-        "price": 153.28
-      },
-      {
-        "timestamp": 1769085000,
-        "price": 154.02
-      },
-      {
-        "timestamp": 1769085900,
-        "price": 163.28
-      },
-      {
-        "timestamp": 1769086800,
-        "price": 150.13
-      },
-      {
-        "timestamp": 1769087700,
-        "price": 150.06
-      },
-      {
-        "timestamp": 1769088600,
-        "price": 150.14
-      },
-      {
-        "timestamp": 1769089500,
-        "price": 161.96
-      },
-      {
-        "timestamp": 1769090400,
-        "price": 151.56
-      },
-      {
-        "timestamp": 1769091300,
-        "price": 165.25
-      },
-      {
-        "timestamp": 1769092200,
-        "price": 206.19
-      },
-      {
-        "timestamp": 1769093100,
-        "price": 207.77
-      },
-      {
-        "timestamp": 1769094000,
-        "price": 167.48
-      },
-      {
-        "timestamp": 1769094900,
-        "price": 194.93
-      },
-      {
-        "timestamp": 1769095800,
-        "price": 200.07
-      },
-      {
-        "timestamp": 1769096700,
-        "price": 182.9
-      },
-      {
-        "timestamp": 1769097600,
-        "price": 177.46
-      },
-      {
-        "timestamp": 1769098500,
-        "price": 170.39
-      },
-      {
-        "timestamp": 1769099400,
-        "price": 170.39
-      },
-      {
-        "timestamp": 1769100300,
+        "timestamp": 1769144400,
         "price": 150.12
       },
       {
-        "timestamp": 1769101200,
-        "price": 160.78
+        "timestamp": 1769145300,
+        "price": 178.85
       },
       {
-        "timestamp": 1769102100,
-        "price": 156.05
+        "timestamp": 1769146200,
+        "price": 189.68
       },
       {
-        "timestamp": 1769103000,
-        "price": 152.61
+        "timestamp": 1769147100,
+        "price": 203.32
       },
       {
-        "timestamp": 1769103900,
-        "price": 147.58
+        "timestamp": 1769148000,
+        "price": 149.15
       },
       {
-        "timestamp": 1769104800,
-        "price": 153.35
+        "timestamp": 1769148900,
+        "price": 181.22
       },
       {
-        "timestamp": 1769105700,
+        "timestamp": 1769149800,
+        "price": 221.01
+      },
+      {
+        "timestamp": 1769150700,
+        "price": 227.81
+      },
+      {
+        "timestamp": 1769151600,
+        "price": 210.0
+      },
+      {
+        "timestamp": 1769152500,
+        "price": 212.27
+      },
+      {
+        "timestamp": 1769153400,
+        "price": 219.13
+      },
+      {
+        "timestamp": 1769154300,
+        "price": 204.62
+      },
+      {
+        "timestamp": 1769155200,
+        "price": 209.24
+      },
+      {
+        "timestamp": 1769156100,
+        "price": 218.67
+      },
+      {
+        "timestamp": 1769157000,
+        "price": 200.07
+      },
+      {
+        "timestamp": 1769157900,
+        "price": 172.3
+      },
+      {
+        "timestamp": 1769158800,
+        "price": 221.11
+      },
+      {
+        "timestamp": 1769159700,
+        "price": 198.23
+      },
+      {
+        "timestamp": 1769160600,
+        "price": 172.31
+      },
+      {
+        "timestamp": 1769161500,
         "price": 150.05
       },
       {
-        "timestamp": 1769106600,
-        "price": 146.11
+        "timestamp": 1769162400,
+        "price": 200.1
       },
       {
-        "timestamp": 1769107500,
-        "price": 110.64
+        "timestamp": 1769163300,
+        "price": 199.09
       },
       {
-        "timestamp": 1769108400,
-        "price": 150.04
+        "timestamp": 1769164200,
+        "price": 190.07
       },
       {
-        "timestamp": 1769109300,
-        "price": 133.35
+        "timestamp": 1769165100,
+        "price": 190.29
       },
       {
-        "timestamp": 1769110200,
-        "price": 108.6
+        "timestamp": 1769166000,
+        "price": 200.15
       },
       {
-        "timestamp": 1769111100,
-        "price": 99.01
+        "timestamp": 1769166900,
+        "price": 200.17
       },
       {
-        "timestamp": 1769112000,
-        "price": 114.91
+        "timestamp": 1769167800,
+        "price": 200.16
       },
       {
-        "timestamp": 1769112900,
-        "price": 113.93
+        "timestamp": 1769168700,
+        "price": 190.03
       },
       {
-        "timestamp": 1769113800,
-        "price": 107.82
+        "timestamp": 1769169600,
+        "price": 189.48
       },
       {
-        "timestamp": 1769114700,
-        "price": 103.09
+        "timestamp": 1769170500,
+        "price": 189.25
       },
       {
-        "timestamp": 1769115600,
-        "price": 121.54
+        "timestamp": 1769171400,
+        "price": 189.23
       },
       {
-        "timestamp": 1769116500,
-        "price": 113.23
+        "timestamp": 1769172300,
+        "price": 189.55
       },
       {
-        "timestamp": 1769117400,
-        "price": 102.39
+        "timestamp": 1769173200,
+        "price": 180.23
       },
       {
-        "timestamp": 1769118300,
-        "price": 92.17
+        "timestamp": 1769174100,
+        "price": 189.19
       },
       {
-        "timestamp": 1769119200,
-        "price": 102.39
+        "timestamp": 1769175000,
+        "price": 189.86
       },
       {
-        "timestamp": 1769120100,
-        "price": 94.93
+        "timestamp": 1769175900,
+        "price": 190.12
       },
       {
-        "timestamp": 1769121000,
-        "price": 92.19
+        "timestamp": 1769176800,
+        "price": 189.74
       },
       {
-        "timestamp": 1769121900,
-        "price": 87.26
+        "timestamp": 1769177700,
+        "price": 205.3
+      },
+      {
+        "timestamp": 1769178600,
+        "price": 200.12
+      },
+      {
+        "timestamp": 1769179500,
+        "price": 200.14
+      },
+      {
+        "timestamp": 1769180400,
+        "price": 157.26
+      },
+      {
+        "timestamp": 1769181300,
+        "price": 164.02
+      },
+      {
+        "timestamp": 1769182200,
+        "price": 193.42
+      },
+      {
+        "timestamp": 1769183100,
+        "price": 206.46
+      },
+      {
+        "timestamp": 1769184000,
+        "price": 175.98
+      },
+      {
+        "timestamp": 1769184900,
+        "price": 210.01
+      },
+      {
+        "timestamp": 1769185800,
+        "price": 182.12
+      },
+      {
+        "timestamp": 1769186700,
+        "price": 174.29
+      },
+      {
+        "timestamp": 1769187600,
+        "price": 203.12
+      },
+      {
+        "timestamp": 1769188500,
+        "price": 176.78
+      },
+      {
+        "timestamp": 1769189400,
+        "price": 168.52
+      },
+      {
+        "timestamp": 1769190300,
+        "price": 166.18
+      },
+      {
+        "timestamp": 1769191200,
+        "price": 178.59
+      },
+      {
+        "timestamp": 1769192100,
+        "price": 160.69
+      },
+      {
+        "timestamp": 1769193000,
+        "price": 151.15
+      },
+      {
+        "timestamp": 1769193900,
+        "price": 144.44
+      },
+      {
+        "timestamp": 1769194800,
+        "price": 146.2
+      },
+      {
+        "timestamp": 1769195700,
+        "price": 138.78
+      },
+      {
+        "timestamp": 1769196600,
+        "price": 138.17
+      },
+      {
+        "timestamp": 1769197500,
+        "price": 115.1
+      },
+      {
+        "timestamp": 1769198400,
+        "price": 136.99
+      },
+      {
+        "timestamp": 1769199300,
+        "price": 150.13
+      },
+      {
+        "timestamp": 1769200200,
+        "price": 131.0
+      },
+      {
+        "timestamp": 1769201100,
+        "price": 110.68
+      },
+      {
+        "timestamp": 1769202000,
+        "price": 127.92
+      },
+      {
+        "timestamp": 1769202900,
+        "price": 118.04
+      },
+      {
+        "timestamp": 1769203800,
+        "price": 117.72
+      },
+      {
+        "timestamp": 1769204700,
+        "price": 115.69
+      },
+      {
+        "timestamp": 1769205600,
+        "price": 115.29
+      },
+      {
+        "timestamp": 1769206500,
+        "price": 100.16
+      },
+      {
+        "timestamp": 1769207400,
+        "price": 95.0
+      },
+      {
+        "timestamp": 1769208300,
+        "price": 94.04
       }
     ]
   }
