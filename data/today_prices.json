@@ -3,1418 +3,1418 @@
   "data": {
     "ee": [
       {
-        "timestamp": 1778112000,
-        "price": 111.16
+        "timestamp": 1778198400,
+        "price": 115.78
       },
       {
-        "timestamp": 1778112900,
-        "price": 111.92
+        "timestamp": 1778199300,
+        "price": 115.15
       },
       {
-        "timestamp": 1778113800,
-        "price": 111.76
-      },
-      {
-        "timestamp": 1778114700,
-        "price": 112.82
-      },
-      {
-        "timestamp": 1778115600,
-        "price": 112.31
-      },
-      {
-        "timestamp": 1778116500,
-        "price": 111.99
-      },
-      {
-        "timestamp": 1778117400,
-        "price": 112.97
-      },
-      {
-        "timestamp": 1778118300,
+        "timestamp": 1778200200,
         "price": 114.99
       },
       {
-        "timestamp": 1778119200,
-        "price": 111.56
+        "timestamp": 1778201100,
+        "price": 113.0
       },
       {
-        "timestamp": 1778120100,
-        "price": 114.65
+        "timestamp": 1778202000,
+        "price": 113.99
       },
       {
-        "timestamp": 1778121000,
-        "price": 116.55
+        "timestamp": 1778202900,
+        "price": 113.95
       },
       {
-        "timestamp": 1778121900,
-        "price": 120.7
+        "timestamp": 1778203800,
+        "price": 113.06
       },
       {
-        "timestamp": 1778122800,
+        "timestamp": 1778204700,
+        "price": 113.82
+      },
+      {
+        "timestamp": 1778205600,
+        "price": 112.59
+      },
+      {
+        "timestamp": 1778206500,
+        "price": 113.5
+      },
+      {
+        "timestamp": 1778207400,
+        "price": 115.8
+      },
+      {
+        "timestamp": 1778208300,
+        "price": 117.67
+      },
+      {
+        "timestamp": 1778209200,
+        "price": 116.49
+      },
+      {
+        "timestamp": 1778210100,
+        "price": 117.84
+      },
+      {
+        "timestamp": 1778211000,
+        "price": 121.9
+      },
+      {
+        "timestamp": 1778211900,
+        "price": 124.5
+      },
+      {
+        "timestamp": 1778212800,
+        "price": 129.6
+      },
+      {
+        "timestamp": 1778213700,
+        "price": 135.65
+      },
+      {
+        "timestamp": 1778214600,
+        "price": 139.79
+      },
+      {
+        "timestamp": 1778215500,
+        "price": 140.71
+      },
+      {
+        "timestamp": 1778216400,
+        "price": 151.76
+      },
+      {
+        "timestamp": 1778217300,
+        "price": 147.3
+      },
+      {
+        "timestamp": 1778218200,
+        "price": 141.37
+      },
+      {
+        "timestamp": 1778219100,
+        "price": 130.97
+      },
+      {
+        "timestamp": 1778220000,
+        "price": 156.09
+      },
+      {
+        "timestamp": 1778220900,
+        "price": 137.88
+      },
+      {
+        "timestamp": 1778221800,
+        "price": 123.99
+      },
+      {
+        "timestamp": 1778222700,
         "price": 115.9
       },
       {
-        "timestamp": 1778123700,
-        "price": 119.91
-      },
-      {
-        "timestamp": 1778124600,
-        "price": 124.72
-      },
-      {
-        "timestamp": 1778125500,
-        "price": 131.7
-      },
-      {
-        "timestamp": 1778126400,
-        "price": 135.93
-      },
-      {
-        "timestamp": 1778127300,
-        "price": 147.51
-      },
-      {
-        "timestamp": 1778128200,
-        "price": 153.38
-      },
-      {
-        "timestamp": 1778129100,
-        "price": 158.18
-      },
-      {
-        "timestamp": 1778130000,
-        "price": 172.11
-      },
-      {
-        "timestamp": 1778130900,
-        "price": 171.56
-      },
-      {
-        "timestamp": 1778131800,
-        "price": 166.51
-      },
-      {
-        "timestamp": 1778132700,
-        "price": 159.79
-      },
-      {
-        "timestamp": 1778133600,
-        "price": 185.9
-      },
-      {
-        "timestamp": 1778134500,
-        "price": 154.96
-      },
-      {
-        "timestamp": 1778135400,
-        "price": 148.86
-      },
-      {
-        "timestamp": 1778136300,
-        "price": 133.25
-      },
-      {
-        "timestamp": 1778137200,
-        "price": 150.09
-      },
-      {
-        "timestamp": 1778138100,
-        "price": 140.0
-      },
-      {
-        "timestamp": 1778139000,
-        "price": 130.49
-      },
-      {
-        "timestamp": 1778139900,
-        "price": 123.66
-      },
-      {
-        "timestamp": 1778140800,
-        "price": 131.37
-      },
-      {
-        "timestamp": 1778141700,
-        "price": 122.01
-      },
-      {
-        "timestamp": 1778142600,
-        "price": 115.97
-      },
-      {
-        "timestamp": 1778143500,
-        "price": 111.18
-      },
-      {
-        "timestamp": 1778144400,
-        "price": 115.96
-      },
-      {
-        "timestamp": 1778145300,
-        "price": 113.91
-      },
-      {
-        "timestamp": 1778146200,
-        "price": 112.93
-      },
-      {
-        "timestamp": 1778147100,
-        "price": 112.04
-      },
-      {
-        "timestamp": 1778148000,
-        "price": 109.6
-      },
-      {
-        "timestamp": 1778148900,
-        "price": 106.83
-      },
-      {
-        "timestamp": 1778149800,
-        "price": 104.8
-      },
-      {
-        "timestamp": 1778150700,
-        "price": 102.74
-      },
-      {
-        "timestamp": 1778151600,
-        "price": 105.57
-      },
-      {
-        "timestamp": 1778152500,
-        "price": 105.3
-      },
-      {
-        "timestamp": 1778153400,
-        "price": 102.58
-      },
-      {
-        "timestamp": 1778154300,
-        "price": 101.7
-      },
-      {
-        "timestamp": 1778155200,
-        "price": 101.72
-      },
-      {
-        "timestamp": 1778156100,
-        "price": 102.81
-      },
-      {
-        "timestamp": 1778157000,
-        "price": 103.99
-      },
-      {
-        "timestamp": 1778157900,
-        "price": 106.04
-      },
-      {
-        "timestamp": 1778158800,
-        "price": 105.03
-      },
-      {
-        "timestamp": 1778159700,
-        "price": 107.89
-      },
-      {
-        "timestamp": 1778160600,
-        "price": 109.38
-      },
-      {
-        "timestamp": 1778161500,
-        "price": 112.05
-      },
-      {
-        "timestamp": 1778162400,
-        "price": 109.56
-      },
-      {
-        "timestamp": 1778163300,
-        "price": 111.03
-      },
-      {
-        "timestamp": 1778164200,
-        "price": 115.03
-      },
-      {
-        "timestamp": 1778165100,
-        "price": 121.96
-      },
-      {
-        "timestamp": 1778166000,
-        "price": 116.96
-      },
-      {
-        "timestamp": 1778166900,
-        "price": 122.3
-      },
-      {
-        "timestamp": 1778167800,
-        "price": 131.5
-      },
-      {
-        "timestamp": 1778168700,
-        "price": 149.6
-      },
-      {
-        "timestamp": 1778169600,
-        "price": 129.13
-      },
-      {
-        "timestamp": 1778170500,
-        "price": 137.17
-      },
-      {
-        "timestamp": 1778171400,
-        "price": 148.49
-      },
-      {
-        "timestamp": 1778172300,
-        "price": 164.34
-      },
-      {
-        "timestamp": 1778173200,
-        "price": 158.04
-      },
-      {
-        "timestamp": 1778174100,
-        "price": 162.96
-      },
-      {
-        "timestamp": 1778175000,
-        "price": 183.03
-      },
-      {
-        "timestamp": 1778175900,
-        "price": 216.38
-      },
-      {
-        "timestamp": 1778176800,
-        "price": 208.89
-      },
-      {
-        "timestamp": 1778177700,
-        "price": 214.8
-      },
-      {
-        "timestamp": 1778178600,
-        "price": 214.53
-      },
-      {
-        "timestamp": 1778179500,
-        "price": 206.53
-      },
-      {
-        "timestamp": 1778180400,
-        "price": 212.44
-      },
-      {
-        "timestamp": 1778181300,
-        "price": 182.78
-      },
-      {
-        "timestamp": 1778182200,
-        "price": 163.54
-      },
-      {
-        "timestamp": 1778183100,
-        "price": 151.64
-      },
-      {
-        "timestamp": 1778184000,
-        "price": 160.64
-      },
-      {
-        "timestamp": 1778184900,
-        "price": 150.01
-      },
-      {
-        "timestamp": 1778185800,
-        "price": 149.99
-      },
-      {
-        "timestamp": 1778186700,
-        "price": 140.78
-      },
-      {
-        "timestamp": 1778187600,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1778188500,
-        "price": 142.13
-      },
-      {
-        "timestamp": 1778189400,
-        "price": 132.34
-      },
-      {
-        "timestamp": 1778190300,
+        "timestamp": 1778223600,
         "price": 126.73
+      },
+      {
+        "timestamp": 1778224500,
+        "price": 117.46
+      },
+      {
+        "timestamp": 1778225400,
+        "price": 103.19
+      },
+      {
+        "timestamp": 1778226300,
+        "price": 87.69
+      },
+      {
+        "timestamp": 1778227200,
+        "price": 71.93
+      },
+      {
+        "timestamp": 1778228100,
+        "price": 30.07
+      },
+      {
+        "timestamp": 1778229000,
+        "price": 87.69
+      },
+      {
+        "timestamp": 1778229900,
+        "price": 30.1
+      },
+      {
+        "timestamp": 1778230800,
+        "price": 30.05
+      },
+      {
+        "timestamp": 1778231700,
+        "price": 30.03
+      },
+      {
+        "timestamp": 1778232600,
+        "price": 30.02
+      },
+      {
+        "timestamp": 1778233500,
+        "price": 57.31
+      },
+      {
+        "timestamp": 1778234400,
+        "price": 76.2
+      },
+      {
+        "timestamp": 1778235300,
+        "price": 67.62
+      },
+      {
+        "timestamp": 1778236200,
+        "price": 62.38
+      },
+      {
+        "timestamp": 1778237100,
+        "price": 56.29
+      },
+      {
+        "timestamp": 1778238000,
+        "price": 66.08
+      },
+      {
+        "timestamp": 1778238900,
+        "price": 60.55
+      },
+      {
+        "timestamp": 1778239800,
+        "price": 56.61
+      },
+      {
+        "timestamp": 1778240700,
+        "price": 52.27
+      },
+      {
+        "timestamp": 1778241600,
+        "price": 55.31
+      },
+      {
+        "timestamp": 1778242500,
+        "price": 59.26
+      },
+      {
+        "timestamp": 1778243400,
+        "price": 72.55
+      },
+      {
+        "timestamp": 1778244300,
+        "price": 67.87
+      },
+      {
+        "timestamp": 1778245200,
+        "price": 59.92
+      },
+      {
+        "timestamp": 1778246100,
+        "price": 57.68
+      },
+      {
+        "timestamp": 1778247000,
+        "price": 60.1
+      },
+      {
+        "timestamp": 1778247900,
+        "price": 75.09
+      },
+      {
+        "timestamp": 1778248800,
+        "price": 45.85
+      },
+      {
+        "timestamp": 1778249700,
+        "price": 67.51
+      },
+      {
+        "timestamp": 1778250600,
+        "price": 87.06
+      },
+      {
+        "timestamp": 1778251500,
+        "price": 101.99
+      },
+      {
+        "timestamp": 1778252400,
+        "price": 66.74
+      },
+      {
+        "timestamp": 1778253300,
+        "price": 84.79
+      },
+      {
+        "timestamp": 1778254200,
+        "price": 95.71
+      },
+      {
+        "timestamp": 1778255100,
+        "price": 98.39
+      },
+      {
+        "timestamp": 1778256000,
+        "price": 97.2
+      },
+      {
+        "timestamp": 1778256900,
+        "price": 105.1
+      },
+      {
+        "timestamp": 1778257800,
+        "price": 126.36
+      },
+      {
+        "timestamp": 1778258700,
+        "price": 133.72
+      },
+      {
+        "timestamp": 1778259600,
+        "price": 130.59
+      },
+      {
+        "timestamp": 1778260500,
+        "price": 130.6
+      },
+      {
+        "timestamp": 1778261400,
+        "price": 118.79
+      },
+      {
+        "timestamp": 1778262300,
+        "price": 118.54
+      },
+      {
+        "timestamp": 1778263200,
+        "price": 121.82
+      },
+      {
+        "timestamp": 1778264100,
+        "price": 114.31
+      },
+      {
+        "timestamp": 1778265000,
+        "price": 105.15
+      },
+      {
+        "timestamp": 1778265900,
+        "price": 100.94
+      },
+      {
+        "timestamp": 1778266800,
+        "price": 132.95
+      },
+      {
+        "timestamp": 1778267700,
+        "price": 135.73
+      },
+      {
+        "timestamp": 1778268600,
+        "price": 128.11
+      },
+      {
+        "timestamp": 1778269500,
+        "price": 104.73
+      },
+      {
+        "timestamp": 1778270400,
+        "price": 130.25
+      },
+      {
+        "timestamp": 1778271300,
+        "price": 99.99
+      },
+      {
+        "timestamp": 1778272200,
+        "price": 60.96
+      },
+      {
+        "timestamp": 1778273100,
+        "price": 44.45
+      },
+      {
+        "timestamp": 1778274000,
+        "price": 59.99
+      },
+      {
+        "timestamp": 1778274900,
+        "price": 42.25
+      },
+      {
+        "timestamp": 1778275800,
+        "price": 36.0
+      },
+      {
+        "timestamp": 1778276700,
+        "price": 30.6
       }
     ],
     "fi": [
       {
-        "timestamp": 1778112000,
-        "price": 111.16
+        "timestamp": 1778198400,
+        "price": 115.78
       },
       {
-        "timestamp": 1778112900,
-        "price": 111.92
+        "timestamp": 1778199300,
+        "price": 115.15
       },
       {
-        "timestamp": 1778113800,
-        "price": 111.76
-      },
-      {
-        "timestamp": 1778114700,
-        "price": 112.82
-      },
-      {
-        "timestamp": 1778115600,
-        "price": 112.31
-      },
-      {
-        "timestamp": 1778116500,
-        "price": 111.99
-      },
-      {
-        "timestamp": 1778117400,
-        "price": 112.97
-      },
-      {
-        "timestamp": 1778118300,
+        "timestamp": 1778200200,
         "price": 114.99
       },
       {
-        "timestamp": 1778119200,
-        "price": 111.56
+        "timestamp": 1778201100,
+        "price": 113.0
       },
       {
-        "timestamp": 1778120100,
-        "price": 114.65
+        "timestamp": 1778202000,
+        "price": 113.99
       },
       {
-        "timestamp": 1778121000,
-        "price": 116.55
+        "timestamp": 1778202900,
+        "price": 113.95
       },
       {
-        "timestamp": 1778121900,
-        "price": 120.7
+        "timestamp": 1778203800,
+        "price": 113.06
       },
       {
-        "timestamp": 1778122800,
+        "timestamp": 1778204700,
+        "price": 113.82
+      },
+      {
+        "timestamp": 1778205600,
+        "price": 112.59
+      },
+      {
+        "timestamp": 1778206500,
+        "price": 113.5
+      },
+      {
+        "timestamp": 1778207400,
+        "price": 115.8
+      },
+      {
+        "timestamp": 1778208300,
+        "price": 117.67
+      },
+      {
+        "timestamp": 1778209200,
+        "price": 116.49
+      },
+      {
+        "timestamp": 1778210100,
+        "price": 117.84
+      },
+      {
+        "timestamp": 1778211000,
+        "price": 121.9
+      },
+      {
+        "timestamp": 1778211900,
+        "price": 124.5
+      },
+      {
+        "timestamp": 1778212800,
+        "price": 129.6
+      },
+      {
+        "timestamp": 1778213700,
+        "price": 135.65
+      },
+      {
+        "timestamp": 1778214600,
+        "price": 139.79
+      },
+      {
+        "timestamp": 1778215500,
+        "price": 140.71
+      },
+      {
+        "timestamp": 1778216400,
+        "price": 151.76
+      },
+      {
+        "timestamp": 1778217300,
+        "price": 147.3
+      },
+      {
+        "timestamp": 1778218200,
+        "price": 141.37
+      },
+      {
+        "timestamp": 1778219100,
+        "price": 130.97
+      },
+      {
+        "timestamp": 1778220000,
+        "price": 156.09
+      },
+      {
+        "timestamp": 1778220900,
+        "price": 137.88
+      },
+      {
+        "timestamp": 1778221800,
+        "price": 123.99
+      },
+      {
+        "timestamp": 1778222700,
         "price": 115.9
       },
       {
-        "timestamp": 1778123700,
-        "price": 119.91
-      },
-      {
-        "timestamp": 1778124600,
-        "price": 124.72
-      },
-      {
-        "timestamp": 1778125500,
-        "price": 131.7
-      },
-      {
-        "timestamp": 1778126400,
-        "price": 135.93
-      },
-      {
-        "timestamp": 1778127300,
-        "price": 147.51
-      },
-      {
-        "timestamp": 1778128200,
-        "price": 153.38
-      },
-      {
-        "timestamp": 1778129100,
-        "price": 158.18
-      },
-      {
-        "timestamp": 1778130000,
-        "price": 172.11
-      },
-      {
-        "timestamp": 1778130900,
-        "price": 171.56
-      },
-      {
-        "timestamp": 1778131800,
-        "price": 166.51
-      },
-      {
-        "timestamp": 1778132700,
-        "price": 159.79
-      },
-      {
-        "timestamp": 1778133600,
-        "price": 185.9
-      },
-      {
-        "timestamp": 1778134500,
-        "price": 154.96
-      },
-      {
-        "timestamp": 1778135400,
-        "price": 148.86
-      },
-      {
-        "timestamp": 1778136300,
-        "price": 133.25
-      },
-      {
-        "timestamp": 1778137200,
-        "price": 150.09
-      },
-      {
-        "timestamp": 1778138100,
-        "price": 140.0
-      },
-      {
-        "timestamp": 1778139000,
-        "price": 130.49
-      },
-      {
-        "timestamp": 1778139900,
-        "price": 123.66
-      },
-      {
-        "timestamp": 1778140800,
-        "price": 131.37
-      },
-      {
-        "timestamp": 1778141700,
-        "price": 122.01
-      },
-      {
-        "timestamp": 1778142600,
-        "price": 115.97
-      },
-      {
-        "timestamp": 1778143500,
-        "price": 111.18
-      },
-      {
-        "timestamp": 1778144400,
-        "price": 115.96
-      },
-      {
-        "timestamp": 1778145300,
-        "price": 113.91
-      },
-      {
-        "timestamp": 1778146200,
-        "price": 112.93
-      },
-      {
-        "timestamp": 1778147100,
-        "price": 112.04
-      },
-      {
-        "timestamp": 1778148000,
-        "price": 109.6
-      },
-      {
-        "timestamp": 1778148900,
-        "price": 106.83
-      },
-      {
-        "timestamp": 1778149800,
-        "price": 104.8
-      },
-      {
-        "timestamp": 1778150700,
-        "price": 102.74
-      },
-      {
-        "timestamp": 1778151600,
-        "price": 105.57
-      },
-      {
-        "timestamp": 1778152500,
-        "price": 105.3
-      },
-      {
-        "timestamp": 1778153400,
-        "price": 102.58
-      },
-      {
-        "timestamp": 1778154300,
-        "price": 101.7
-      },
-      {
-        "timestamp": 1778155200,
-        "price": 101.72
-      },
-      {
-        "timestamp": 1778156100,
-        "price": 102.81
-      },
-      {
-        "timestamp": 1778157000,
-        "price": 103.99
-      },
-      {
-        "timestamp": 1778157900,
-        "price": 106.04
-      },
-      {
-        "timestamp": 1778158800,
-        "price": 105.03
-      },
-      {
-        "timestamp": 1778159700,
-        "price": 107.89
-      },
-      {
-        "timestamp": 1778160600,
-        "price": 109.38
-      },
-      {
-        "timestamp": 1778161500,
-        "price": 112.05
-      },
-      {
-        "timestamp": 1778162400,
-        "price": 109.56
-      },
-      {
-        "timestamp": 1778163300,
-        "price": 111.03
-      },
-      {
-        "timestamp": 1778164200,
-        "price": 115.03
-      },
-      {
-        "timestamp": 1778165100,
-        "price": 121.96
-      },
-      {
-        "timestamp": 1778166000,
-        "price": 116.96
-      },
-      {
-        "timestamp": 1778166900,
-        "price": 122.3
-      },
-      {
-        "timestamp": 1778167800,
-        "price": 131.5
-      },
-      {
-        "timestamp": 1778168700,
-        "price": 149.6
-      },
-      {
-        "timestamp": 1778169600,
-        "price": 129.13
-      },
-      {
-        "timestamp": 1778170500,
-        "price": 137.17
-      },
-      {
-        "timestamp": 1778171400,
-        "price": 148.49
-      },
-      {
-        "timestamp": 1778172300,
-        "price": 164.34
-      },
-      {
-        "timestamp": 1778173200,
-        "price": 158.04
-      },
-      {
-        "timestamp": 1778174100,
-        "price": 162.96
-      },
-      {
-        "timestamp": 1778175000,
-        "price": 183.03
-      },
-      {
-        "timestamp": 1778175900,
-        "price": 216.38
-      },
-      {
-        "timestamp": 1778176800,
-        "price": 208.89
-      },
-      {
-        "timestamp": 1778177700,
-        "price": 214.8
-      },
-      {
-        "timestamp": 1778178600,
-        "price": 214.53
-      },
-      {
-        "timestamp": 1778179500,
-        "price": 206.53
-      },
-      {
-        "timestamp": 1778180400,
-        "price": 212.44
-      },
-      {
-        "timestamp": 1778181300,
-        "price": 182.78
-      },
-      {
-        "timestamp": 1778182200,
-        "price": 163.54
-      },
-      {
-        "timestamp": 1778183100,
-        "price": 151.64
-      },
-      {
-        "timestamp": 1778184000,
-        "price": 160.64
-      },
-      {
-        "timestamp": 1778184900,
-        "price": 150.01
-      },
-      {
-        "timestamp": 1778185800,
-        "price": 149.99
-      },
-      {
-        "timestamp": 1778186700,
-        "price": 140.78
-      },
-      {
-        "timestamp": 1778187600,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1778188500,
-        "price": 142.13
-      },
-      {
-        "timestamp": 1778189400,
-        "price": 132.34
-      },
-      {
-        "timestamp": 1778190300,
+        "timestamp": 1778223600,
         "price": 126.73
+      },
+      {
+        "timestamp": 1778224500,
+        "price": 117.46
+      },
+      {
+        "timestamp": 1778225400,
+        "price": 108.81
+      },
+      {
+        "timestamp": 1778226300,
+        "price": 100.72
+      },
+      {
+        "timestamp": 1778227200,
+        "price": 113.9
+      },
+      {
+        "timestamp": 1778228100,
+        "price": 101.71
+      },
+      {
+        "timestamp": 1778229000,
+        "price": 91.85
+      },
+      {
+        "timestamp": 1778229900,
+        "price": 80.78
+      },
+      {
+        "timestamp": 1778230800,
+        "price": 94.33
+      },
+      {
+        "timestamp": 1778231700,
+        "price": 85.43
+      },
+      {
+        "timestamp": 1778232600,
+        "price": 68.05
+      },
+      {
+        "timestamp": 1778233500,
+        "price": 57.99
+      },
+      {
+        "timestamp": 1778234400,
+        "price": 76.59
+      },
+      {
+        "timestamp": 1778235300,
+        "price": 68.15
+      },
+      {
+        "timestamp": 1778236200,
+        "price": 62.97
+      },
+      {
+        "timestamp": 1778237100,
+        "price": 56.96
+      },
+      {
+        "timestamp": 1778238000,
+        "price": 67.3
+      },
+      {
+        "timestamp": 1778238900,
+        "price": 61.87
+      },
+      {
+        "timestamp": 1778239800,
+        "price": 56.75
+      },
+      {
+        "timestamp": 1778240700,
+        "price": 52.28
+      },
+      {
+        "timestamp": 1778241600,
+        "price": 55.31
+      },
+      {
+        "timestamp": 1778242500,
+        "price": 59.99
+      },
+      {
+        "timestamp": 1778243400,
+        "price": 72.91
+      },
+      {
+        "timestamp": 1778244300,
+        "price": 67.87
+      },
+      {
+        "timestamp": 1778245200,
+        "price": 59.92
+      },
+      {
+        "timestamp": 1778246100,
+        "price": 57.68
+      },
+      {
+        "timestamp": 1778247000,
+        "price": 60.1
+      },
+      {
+        "timestamp": 1778247900,
+        "price": 75.09
+      },
+      {
+        "timestamp": 1778248800,
+        "price": 45.85
+      },
+      {
+        "timestamp": 1778249700,
+        "price": 67.6
+      },
+      {
+        "timestamp": 1778250600,
+        "price": 87.11
+      },
+      {
+        "timestamp": 1778251500,
+        "price": 101.99
+      },
+      {
+        "timestamp": 1778252400,
+        "price": 66.6
+      },
+      {
+        "timestamp": 1778253300,
+        "price": 84.78
+      },
+      {
+        "timestamp": 1778254200,
+        "price": 95.71
+      },
+      {
+        "timestamp": 1778255100,
+        "price": 98.39
+      },
+      {
+        "timestamp": 1778256000,
+        "price": 97.2
+      },
+      {
+        "timestamp": 1778256900,
+        "price": 105.08
+      },
+      {
+        "timestamp": 1778257800,
+        "price": 126.31
+      },
+      {
+        "timestamp": 1778258700,
+        "price": 133.65
+      },
+      {
+        "timestamp": 1778259600,
+        "price": 130.55
+      },
+      {
+        "timestamp": 1778260500,
+        "price": 130.53
+      },
+      {
+        "timestamp": 1778261400,
+        "price": 118.74
+      },
+      {
+        "timestamp": 1778262300,
+        "price": 118.46
+      },
+      {
+        "timestamp": 1778263200,
+        "price": 121.79
+      },
+      {
+        "timestamp": 1778264100,
+        "price": 114.26
+      },
+      {
+        "timestamp": 1778265000,
+        "price": 105.08
+      },
+      {
+        "timestamp": 1778265900,
+        "price": 100.86
+      },
+      {
+        "timestamp": 1778266800,
+        "price": 132.89
+      },
+      {
+        "timestamp": 1778267700,
+        "price": 135.63
+      },
+      {
+        "timestamp": 1778268600,
+        "price": 128.03
+      },
+      {
+        "timestamp": 1778269500,
+        "price": 104.65
+      },
+      {
+        "timestamp": 1778270400,
+        "price": 130.16
+      },
+      {
+        "timestamp": 1778271300,
+        "price": 99.95
+      },
+      {
+        "timestamp": 1778272200,
+        "price": 60.95
+      },
+      {
+        "timestamp": 1778273100,
+        "price": 44.45
+      },
+      {
+        "timestamp": 1778274000,
+        "price": 59.99
+      },
+      {
+        "timestamp": 1778274900,
+        "price": 42.25
+      },
+      {
+        "timestamp": 1778275800,
+        "price": 36.0
+      },
+      {
+        "timestamp": 1778276700,
+        "price": 30.6
       }
     ],
     "lv": [
       {
-        "timestamp": 1778112000,
-        "price": 111.16
+        "timestamp": 1778198400,
+        "price": 115.78
       },
       {
-        "timestamp": 1778112900,
-        "price": 111.92
+        "timestamp": 1778199300,
+        "price": 115.15
       },
       {
-        "timestamp": 1778113800,
-        "price": 111.76
-      },
-      {
-        "timestamp": 1778114700,
-        "price": 112.82
-      },
-      {
-        "timestamp": 1778115600,
-        "price": 112.31
-      },
-      {
-        "timestamp": 1778116500,
-        "price": 111.99
-      },
-      {
-        "timestamp": 1778117400,
-        "price": 112.97
-      },
-      {
-        "timestamp": 1778118300,
+        "timestamp": 1778200200,
         "price": 114.99
       },
       {
-        "timestamp": 1778119200,
-        "price": 111.56
+        "timestamp": 1778201100,
+        "price": 113.0
       },
       {
-        "timestamp": 1778120100,
-        "price": 114.65
+        "timestamp": 1778202000,
+        "price": 113.99
       },
       {
-        "timestamp": 1778121000,
-        "price": 116.55
+        "timestamp": 1778202900,
+        "price": 113.95
       },
       {
-        "timestamp": 1778121900,
-        "price": 120.7
+        "timestamp": 1778203800,
+        "price": 113.06
       },
       {
-        "timestamp": 1778122800,
-        "price": 115.9
+        "timestamp": 1778204700,
+        "price": 113.82
       },
       {
-        "timestamp": 1778123700,
-        "price": 119.91
+        "timestamp": 1778205600,
+        "price": 112.59
       },
       {
-        "timestamp": 1778124600,
-        "price": 124.72
+        "timestamp": 1778206500,
+        "price": 113.5
       },
       {
-        "timestamp": 1778125500,
-        "price": 131.7
+        "timestamp": 1778207400,
+        "price": 115.8
       },
       {
-        "timestamp": 1778126400,
-        "price": 136.29
+        "timestamp": 1778208300,
+        "price": 117.67
       },
       {
-        "timestamp": 1778127300,
-        "price": 147.54
+        "timestamp": 1778209200,
+        "price": 116.49
       },
       {
-        "timestamp": 1778128200,
-        "price": 153.52
+        "timestamp": 1778210100,
+        "price": 117.84
       },
       {
-        "timestamp": 1778129100,
-        "price": 158.28
+        "timestamp": 1778211000,
+        "price": 121.9
       },
       {
-        "timestamp": 1778130000,
-        "price": 172.29
+        "timestamp": 1778211900,
+        "price": 124.5
       },
       {
-        "timestamp": 1778130900,
-        "price": 171.71
+        "timestamp": 1778212800,
+        "price": 129.6
       },
       {
-        "timestamp": 1778131800,
-        "price": 166.67
+        "timestamp": 1778213700,
+        "price": 135.65
       },
       {
-        "timestamp": 1778132700,
-        "price": 159.94
+        "timestamp": 1778214600,
+        "price": 139.79
       },
       {
-        "timestamp": 1778133600,
-        "price": 186.07
+        "timestamp": 1778215500,
+        "price": 140.71
       },
       {
-        "timestamp": 1778134500,
-        "price": 155.07
+        "timestamp": 1778216400,
+        "price": 151.76
       },
       {
-        "timestamp": 1778135400,
-        "price": 148.93
+        "timestamp": 1778217300,
+        "price": 147.3
       },
       {
-        "timestamp": 1778136300,
-        "price": 133.25
+        "timestamp": 1778218200,
+        "price": 141.37
       },
       {
-        "timestamp": 1778137200,
-        "price": 150.18
+        "timestamp": 1778219100,
+        "price": 130.97
       },
       {
-        "timestamp": 1778138100,
-        "price": 140.11
+        "timestamp": 1778220000,
+        "price": 156.09
       },
       {
-        "timestamp": 1778139000,
-        "price": 130.49
+        "timestamp": 1778220900,
+        "price": 137.88
       },
       {
-        "timestamp": 1778139900,
-        "price": 123.66
+        "timestamp": 1778221800,
+        "price": 123.99
       },
       {
-        "timestamp": 1778140800,
-        "price": 131.37
+        "timestamp": 1778222700,
+        "price": 79.31
       },
       {
-        "timestamp": 1778141700,
-        "price": 122.01
+        "timestamp": 1778223600,
+        "price": 126.73
       },
       {
-        "timestamp": 1778142600,
-        "price": 115.97
+        "timestamp": 1778224500,
+        "price": 117.46
       },
       {
-        "timestamp": 1778143500,
-        "price": 111.18
+        "timestamp": 1778225400,
+        "price": 90.54
       },
       {
-        "timestamp": 1778144400,
-        "price": 115.96
+        "timestamp": 1778226300,
+        "price": 17.38
       },
       {
-        "timestamp": 1778145300,
-        "price": 113.91
+        "timestamp": 1778227200,
+        "price": 20.01
       },
       {
-        "timestamp": 1778146200,
-        "price": 112.93
+        "timestamp": 1778228100,
+        "price": 20.0
       },
       {
-        "timestamp": 1778147100,
-        "price": 112.04
+        "timestamp": 1778229000,
+        "price": 17.37
       },
       {
-        "timestamp": 1778148000,
-        "price": 109.6
+        "timestamp": 1778229900,
+        "price": 15.04
       },
       {
-        "timestamp": 1778148900,
-        "price": 106.83
+        "timestamp": 1778230800,
+        "price": 14.01
       },
       {
-        "timestamp": 1778149800,
-        "price": 104.8
+        "timestamp": 1778231700,
+        "price": 14.0
       },
       {
-        "timestamp": 1778150700,
-        "price": 102.74
+        "timestamp": 1778232600,
+        "price": 20.01
       },
       {
-        "timestamp": 1778151600,
-        "price": 105.57
+        "timestamp": 1778233500,
+        "price": 57.31
       },
       {
-        "timestamp": 1778152500,
-        "price": 105.3
+        "timestamp": 1778234400,
+        "price": 76.2
       },
       {
-        "timestamp": 1778153400,
-        "price": 102.58
+        "timestamp": 1778235300,
+        "price": 67.62
       },
       {
-        "timestamp": 1778154300,
-        "price": 101.7
+        "timestamp": 1778236200,
+        "price": 62.38
       },
       {
-        "timestamp": 1778155200,
-        "price": 101.72
+        "timestamp": 1778237100,
+        "price": 56.29
       },
       {
-        "timestamp": 1778156100,
-        "price": 102.81
+        "timestamp": 1778238000,
+        "price": 66.08
       },
       {
-        "timestamp": 1778157000,
-        "price": 103.99
+        "timestamp": 1778238900,
+        "price": 60.22
       },
       {
-        "timestamp": 1778157900,
-        "price": 106.04
+        "timestamp": 1778239800,
+        "price": 54.9
       },
       {
-        "timestamp": 1778158800,
+        "timestamp": 1778240700,
+        "price": 50.27
+      },
+      {
+        "timestamp": 1778241600,
+        "price": 53.48
+      },
+      {
+        "timestamp": 1778242500,
+        "price": 59.26
+      },
+      {
+        "timestamp": 1778243400,
+        "price": 72.55
+      },
+      {
+        "timestamp": 1778244300,
+        "price": 67.44
+      },
+      {
+        "timestamp": 1778245200,
+        "price": 59.53
+      },
+      {
+        "timestamp": 1778246100,
+        "price": 57.36
+      },
+      {
+        "timestamp": 1778247000,
+        "price": 59.99
+      },
+      {
+        "timestamp": 1778247900,
+        "price": 74.98
+      },
+      {
+        "timestamp": 1778248800,
+        "price": 45.74
+      },
+      {
+        "timestamp": 1778249700,
+        "price": 67.51
+      },
+      {
+        "timestamp": 1778250600,
+        "price": 87.06
+      },
+      {
+        "timestamp": 1778251500,
+        "price": 101.99
+      },
+      {
+        "timestamp": 1778252400,
+        "price": 66.74
+      },
+      {
+        "timestamp": 1778253300,
+        "price": 91.02
+      },
+      {
+        "timestamp": 1778254200,
+        "price": 102.0
+      },
+      {
+        "timestamp": 1778255100,
+        "price": 116.59
+      },
+      {
+        "timestamp": 1778256000,
+        "price": 105.76
+      },
+      {
+        "timestamp": 1778256900,
+        "price": 120.54
+      },
+      {
+        "timestamp": 1778257800,
+        "price": 130.29
+      },
+      {
+        "timestamp": 1778258700,
+        "price": 146.18
+      },
+      {
+        "timestamp": 1778259600,
+        "price": 130.86
+      },
+      {
+        "timestamp": 1778260500,
+        "price": 136.2
+      },
+      {
+        "timestamp": 1778261400,
+        "price": 147.7
+      },
+      {
+        "timestamp": 1778262300,
+        "price": 154.34
+      },
+      {
+        "timestamp": 1778263200,
+        "price": 145.53
+      },
+      {
+        "timestamp": 1778264100,
+        "price": 147.03
+      },
+      {
+        "timestamp": 1778265000,
+        "price": 149.48
+      },
+      {
+        "timestamp": 1778265900,
+        "price": 146.47
+      },
+      {
+        "timestamp": 1778266800,
+        "price": 145.24
+      },
+      {
+        "timestamp": 1778267700,
+        "price": 139.01
+      },
+      {
+        "timestamp": 1778268600,
+        "price": 128.11
+      },
+      {
+        "timestamp": 1778269500,
+        "price": 114.2
+      },
+      {
+        "timestamp": 1778270400,
+        "price": 134.02
+      },
+      {
+        "timestamp": 1778271300,
+        "price": 122.37
+      },
+      {
+        "timestamp": 1778272200,
+        "price": 113.82
+      },
+      {
+        "timestamp": 1778273100,
         "price": 105.03
       },
       {
-        "timestamp": 1778159700,
-        "price": 107.89
+        "timestamp": 1778274000,
+        "price": 117.75
       },
       {
-        "timestamp": 1778160600,
-        "price": 109.38
+        "timestamp": 1778274900,
+        "price": 115.38
       },
       {
-        "timestamp": 1778161500,
-        "price": 112.05
+        "timestamp": 1778275800,
+        "price": 108.88
       },
       {
-        "timestamp": 1778162400,
-        "price": 109.56
-      },
-      {
-        "timestamp": 1778163300,
-        "price": 111.03
-      },
-      {
-        "timestamp": 1778164200,
-        "price": 115.03
-      },
-      {
-        "timestamp": 1778165100,
-        "price": 121.96
-      },
-      {
-        "timestamp": 1778166000,
-        "price": 116.96
-      },
-      {
-        "timestamp": 1778166900,
-        "price": 122.3
-      },
-      {
-        "timestamp": 1778167800,
-        "price": 131.73
-      },
-      {
-        "timestamp": 1778168700,
-        "price": 149.65
-      },
-      {
-        "timestamp": 1778169600,
-        "price": 129.13
-      },
-      {
-        "timestamp": 1778170500,
-        "price": 137.36
-      },
-      {
-        "timestamp": 1778171400,
-        "price": 148.69
-      },
-      {
-        "timestamp": 1778172300,
-        "price": 164.71
-      },
-      {
-        "timestamp": 1778173200,
-        "price": 158.04
-      },
-      {
-        "timestamp": 1778174100,
-        "price": 163.11
-      },
-      {
-        "timestamp": 1778175000,
-        "price": 183.03
-      },
-      {
-        "timestamp": 1778175900,
-        "price": 216.38
-      },
-      {
-        "timestamp": 1778176800,
-        "price": 208.89
-      },
-      {
-        "timestamp": 1778177700,
-        "price": 214.8
-      },
-      {
-        "timestamp": 1778178600,
-        "price": 214.53
-      },
-      {
-        "timestamp": 1778179500,
-        "price": 206.53
-      },
-      {
-        "timestamp": 1778180400,
-        "price": 212.44
-      },
-      {
-        "timestamp": 1778181300,
-        "price": 182.78
-      },
-      {
-        "timestamp": 1778182200,
-        "price": 163.69
-      },
-      {
-        "timestamp": 1778183100,
-        "price": 151.78
-      },
-      {
-        "timestamp": 1778184000,
-        "price": 160.78
-      },
-      {
-        "timestamp": 1778184900,
-        "price": 150.01
-      },
-      {
-        "timestamp": 1778185800,
-        "price": 149.99
-      },
-      {
-        "timestamp": 1778186700,
-        "price": 140.78
-      },
-      {
-        "timestamp": 1778187600,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1778188500,
-        "price": 142.13
-      },
-      {
-        "timestamp": 1778189400,
-        "price": 132.34
-      },
-      {
-        "timestamp": 1778190300,
-        "price": 126.73
+        "timestamp": 1778276700,
+        "price": 99.94
       }
     ],
     "lt": [
       {
-        "timestamp": 1778112000,
-        "price": 111.16
+        "timestamp": 1778198400,
+        "price": 115.78
       },
       {
-        "timestamp": 1778112900,
-        "price": 111.92
+        "timestamp": 1778199300,
+        "price": 115.15
       },
       {
-        "timestamp": 1778113800,
-        "price": 111.76
-      },
-      {
-        "timestamp": 1778114700,
-        "price": 112.82
-      },
-      {
-        "timestamp": 1778115600,
-        "price": 112.31
-      },
-      {
-        "timestamp": 1778116500,
-        "price": 111.99
-      },
-      {
-        "timestamp": 1778117400,
-        "price": 112.97
-      },
-      {
-        "timestamp": 1778118300,
+        "timestamp": 1778200200,
         "price": 114.99
       },
       {
-        "timestamp": 1778119200,
-        "price": 111.56
+        "timestamp": 1778201100,
+        "price": 113.0
       },
       {
-        "timestamp": 1778120100,
-        "price": 114.65
+        "timestamp": 1778202000,
+        "price": 113.99
       },
       {
-        "timestamp": 1778121000,
-        "price": 116.55
+        "timestamp": 1778202900,
+        "price": 113.95
       },
       {
-        "timestamp": 1778121900,
-        "price": 120.7
+        "timestamp": 1778203800,
+        "price": 113.06
       },
       {
-        "timestamp": 1778122800,
-        "price": 115.9
+        "timestamp": 1778204700,
+        "price": 113.82
       },
       {
-        "timestamp": 1778123700,
-        "price": 119.91
+        "timestamp": 1778205600,
+        "price": 112.59
       },
       {
-        "timestamp": 1778124600,
-        "price": 124.72
+        "timestamp": 1778206500,
+        "price": 113.5
       },
       {
-        "timestamp": 1778125500,
-        "price": 131.7
+        "timestamp": 1778207400,
+        "price": 115.8
       },
       {
-        "timestamp": 1778126400,
-        "price": 136.29
+        "timestamp": 1778208300,
+        "price": 117.67
       },
       {
-        "timestamp": 1778127300,
-        "price": 147.54
+        "timestamp": 1778209200,
+        "price": 116.49
       },
       {
-        "timestamp": 1778128200,
-        "price": 153.52
+        "timestamp": 1778210100,
+        "price": 117.84
       },
       {
-        "timestamp": 1778129100,
-        "price": 158.28
+        "timestamp": 1778211000,
+        "price": 121.9
       },
       {
-        "timestamp": 1778130000,
-        "price": 172.29
+        "timestamp": 1778211900,
+        "price": 124.5
       },
       {
-        "timestamp": 1778130900,
-        "price": 171.71
+        "timestamp": 1778212800,
+        "price": 129.6
       },
       {
-        "timestamp": 1778131800,
-        "price": 166.67
+        "timestamp": 1778213700,
+        "price": 135.65
       },
       {
-        "timestamp": 1778132700,
-        "price": 159.94
+        "timestamp": 1778214600,
+        "price": 139.79
       },
       {
-        "timestamp": 1778133600,
-        "price": 186.07
+        "timestamp": 1778215500,
+        "price": 140.71
       },
       {
-        "timestamp": 1778134500,
-        "price": 155.07
+        "timestamp": 1778216400,
+        "price": 151.76
       },
       {
-        "timestamp": 1778135400,
-        "price": 148.93
+        "timestamp": 1778217300,
+        "price": 147.3
       },
       {
-        "timestamp": 1778136300,
-        "price": 133.25
+        "timestamp": 1778218200,
+        "price": 141.37
       },
       {
-        "timestamp": 1778137200,
-        "price": 150.18
+        "timestamp": 1778219100,
+        "price": 130.97
       },
       {
-        "timestamp": 1778138100,
-        "price": 140.11
+        "timestamp": 1778220000,
+        "price": 156.09
       },
       {
-        "timestamp": 1778139000,
-        "price": 130.49
+        "timestamp": 1778220900,
+        "price": 137.88
       },
       {
-        "timestamp": 1778139900,
-        "price": 123.66
+        "timestamp": 1778221800,
+        "price": 123.99
       },
       {
-        "timestamp": 1778140800,
-        "price": 131.37
+        "timestamp": 1778222700,
+        "price": 79.31
       },
       {
-        "timestamp": 1778141700,
-        "price": 122.01
+        "timestamp": 1778223600,
+        "price": 126.73
       },
       {
-        "timestamp": 1778142600,
-        "price": 115.97
+        "timestamp": 1778224500,
+        "price": 117.46
       },
       {
-        "timestamp": 1778143500,
-        "price": 111.18
+        "timestamp": 1778225400,
+        "price": 90.54
       },
       {
-        "timestamp": 1778144400,
-        "price": 115.96
+        "timestamp": 1778226300,
+        "price": 17.38
       },
       {
-        "timestamp": 1778145300,
-        "price": 113.91
+        "timestamp": 1778227200,
+        "price": 20.01
       },
       {
-        "timestamp": 1778146200,
-        "price": 112.93
+        "timestamp": 1778228100,
+        "price": 20.0
       },
       {
-        "timestamp": 1778147100,
-        "price": 112.04
+        "timestamp": 1778229000,
+        "price": 17.37
       },
       {
-        "timestamp": 1778148000,
-        "price": 109.6
+        "timestamp": 1778229900,
+        "price": 15.04
       },
       {
-        "timestamp": 1778148900,
-        "price": 106.83
+        "timestamp": 1778230800,
+        "price": 14.01
       },
       {
-        "timestamp": 1778149800,
-        "price": 104.8
+        "timestamp": 1778231700,
+        "price": 14.0
       },
       {
-        "timestamp": 1778150700,
-        "price": 102.74
+        "timestamp": 1778232600,
+        "price": 20.01
       },
       {
-        "timestamp": 1778151600,
-        "price": 105.57
+        "timestamp": 1778233500,
+        "price": 57.31
       },
       {
-        "timestamp": 1778152500,
-        "price": 105.3
+        "timestamp": 1778234400,
+        "price": 76.2
       },
       {
-        "timestamp": 1778153400,
-        "price": 102.58
+        "timestamp": 1778235300,
+        "price": 67.62
       },
       {
-        "timestamp": 1778154300,
-        "price": 101.7
+        "timestamp": 1778236200,
+        "price": 62.38
       },
       {
-        "timestamp": 1778155200,
-        "price": 101.72
+        "timestamp": 1778237100,
+        "price": 56.29
       },
       {
-        "timestamp": 1778156100,
-        "price": 102.81
+        "timestamp": 1778238000,
+        "price": 66.08
       },
       {
-        "timestamp": 1778157000,
-        "price": 103.99
+        "timestamp": 1778238900,
+        "price": 60.22
       },
       {
-        "timestamp": 1778157900,
-        "price": 106.04
+        "timestamp": 1778239800,
+        "price": 54.9
       },
       {
-        "timestamp": 1778158800,
+        "timestamp": 1778240700,
+        "price": 50.27
+      },
+      {
+        "timestamp": 1778241600,
+        "price": 53.48
+      },
+      {
+        "timestamp": 1778242500,
+        "price": 59.26
+      },
+      {
+        "timestamp": 1778243400,
+        "price": 72.55
+      },
+      {
+        "timestamp": 1778244300,
+        "price": 67.44
+      },
+      {
+        "timestamp": 1778245200,
+        "price": 59.53
+      },
+      {
+        "timestamp": 1778246100,
+        "price": 57.36
+      },
+      {
+        "timestamp": 1778247000,
+        "price": 59.99
+      },
+      {
+        "timestamp": 1778247900,
+        "price": 74.98
+      },
+      {
+        "timestamp": 1778248800,
+        "price": 45.74
+      },
+      {
+        "timestamp": 1778249700,
+        "price": 67.51
+      },
+      {
+        "timestamp": 1778250600,
+        "price": 87.06
+      },
+      {
+        "timestamp": 1778251500,
+        "price": 101.99
+      },
+      {
+        "timestamp": 1778252400,
+        "price": 66.74
+      },
+      {
+        "timestamp": 1778253300,
+        "price": 91.02
+      },
+      {
+        "timestamp": 1778254200,
+        "price": 102.0
+      },
+      {
+        "timestamp": 1778255100,
+        "price": 116.59
+      },
+      {
+        "timestamp": 1778256000,
+        "price": 105.76
+      },
+      {
+        "timestamp": 1778256900,
+        "price": 120.54
+      },
+      {
+        "timestamp": 1778257800,
+        "price": 130.29
+      },
+      {
+        "timestamp": 1778258700,
+        "price": 146.18
+      },
+      {
+        "timestamp": 1778259600,
+        "price": 130.86
+      },
+      {
+        "timestamp": 1778260500,
+        "price": 136.2
+      },
+      {
+        "timestamp": 1778261400,
+        "price": 147.7
+      },
+      {
+        "timestamp": 1778262300,
+        "price": 154.34
+      },
+      {
+        "timestamp": 1778263200,
+        "price": 145.53
+      },
+      {
+        "timestamp": 1778264100,
+        "price": 147.03
+      },
+      {
+        "timestamp": 1778265000,
+        "price": 149.48
+      },
+      {
+        "timestamp": 1778265900,
+        "price": 146.47
+      },
+      {
+        "timestamp": 1778266800,
+        "price": 145.24
+      },
+      {
+        "timestamp": 1778267700,
+        "price": 139.01
+      },
+      {
+        "timestamp": 1778268600,
+        "price": 128.11
+      },
+      {
+        "timestamp": 1778269500,
+        "price": 114.2
+      },
+      {
+        "timestamp": 1778270400,
+        "price": 134.02
+      },
+      {
+        "timestamp": 1778271300,
+        "price": 122.37
+      },
+      {
+        "timestamp": 1778272200,
+        "price": 113.82
+      },
+      {
+        "timestamp": 1778273100,
         "price": 105.03
       },
       {
-        "timestamp": 1778159700,
-        "price": 107.89
+        "timestamp": 1778274000,
+        "price": 117.75
       },
       {
-        "timestamp": 1778160600,
-        "price": 109.38
+        "timestamp": 1778274900,
+        "price": 115.38
       },
       {
-        "timestamp": 1778161500,
-        "price": 112.05
+        "timestamp": 1778275800,
+        "price": 108.88
       },
       {
-        "timestamp": 1778162400,
-        "price": 109.56
-      },
-      {
-        "timestamp": 1778163300,
-        "price": 111.03
-      },
-      {
-        "timestamp": 1778164200,
-        "price": 115.03
-      },
-      {
-        "timestamp": 1778165100,
-        "price": 121.96
-      },
-      {
-        "timestamp": 1778166000,
-        "price": 116.96
-      },
-      {
-        "timestamp": 1778166900,
-        "price": 122.3
-      },
-      {
-        "timestamp": 1778167800,
-        "price": 131.73
-      },
-      {
-        "timestamp": 1778168700,
-        "price": 149.65
-      },
-      {
-        "timestamp": 1778169600,
-        "price": 129.13
-      },
-      {
-        "timestamp": 1778170500,
-        "price": 137.36
-      },
-      {
-        "timestamp": 1778171400,
-        "price": 148.69
-      },
-      {
-        "timestamp": 1778172300,
-        "price": 164.71
-      },
-      {
-        "timestamp": 1778173200,
-        "price": 158.04
-      },
-      {
-        "timestamp": 1778174100,
-        "price": 163.11
-      },
-      {
-        "timestamp": 1778175000,
-        "price": 183.03
-      },
-      {
-        "timestamp": 1778175900,
-        "price": 216.38
-      },
-      {
-        "timestamp": 1778176800,
-        "price": 208.89
-      },
-      {
-        "timestamp": 1778177700,
-        "price": 214.8
-      },
-      {
-        "timestamp": 1778178600,
-        "price": 214.53
-      },
-      {
-        "timestamp": 1778179500,
-        "price": 206.53
-      },
-      {
-        "timestamp": 1778180400,
-        "price": 212.44
-      },
-      {
-        "timestamp": 1778181300,
-        "price": 182.78
-      },
-      {
-        "timestamp": 1778182200,
-        "price": 163.69
-      },
-      {
-        "timestamp": 1778183100,
-        "price": 151.78
-      },
-      {
-        "timestamp": 1778184000,
-        "price": 160.78
-      },
-      {
-        "timestamp": 1778184900,
-        "price": 150.01
-      },
-      {
-        "timestamp": 1778185800,
-        "price": 149.99
-      },
-      {
-        "timestamp": 1778186700,
-        "price": 140.78
-      },
-      {
-        "timestamp": 1778187600,
-        "price": 150.0
-      },
-      {
-        "timestamp": 1778188500,
-        "price": 142.13
-      },
-      {
-        "timestamp": 1778189400,
-        "price": 132.34
-      },
-      {
-        "timestamp": 1778190300,
-        "price": 126.73
+        "timestamp": 1778276700,
+        "price": 99.94
       }
     ]
   }
